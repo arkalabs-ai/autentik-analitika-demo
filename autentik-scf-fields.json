@@ -1,0 +1,790 @@
+[
+  {
+    "key": "group_autentik_layanan",
+    "title": "Isi Halaman Layanan",
+    "fields": [
+      {
+        "key": "field_aa_judul_en",
+        "label": "Judul Inggris (opsional)",
+        "name": "judul_en",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
+        "key": "field_aa_ikon",
+        "label": "Nama ikon",
+        "name": "ikon",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Nama ikon garis, mis. scale-balanced, file-badge, map",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
+        "key": "field_aa_dek",
+        "label": "Kalimat pembuka (di bawah judul)",
+        "name": "dek",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "rows": 2,
+        "new_lines": ""
+      },
+      {
+        "key": "field_aa_jawaban",
+        "label": "Jawaban singkat 40–60 kata (untuk Google dan AI)",
+        "name": "jawaban_singkat",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "rows": 4,
+        "new_lines": ""
+      },
+      {
+        "key": "field_aa_paragraf",
+        "label": "Paragraf penjelasan",
+        "name": "paragraf",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "rows": 4,
+        "new_lines": ""
+      },
+      {
+        "key": "field_aa_judul_lingkup",
+        "label": "Judul daftar pekerjaan",
+        "name": "judul_lingkup",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
+        "key": "field_aa_lingkup",
+        "label": "Lingkup pekerjaan",
+        "name": "lingkup",
+        "aria-label": "",
+        "type": "repeater",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "layout": "table",
+        "pagination": 0,
+        "min": 0,
+        "max": 0,
+        "collapsed": "",
+        "button_label": "Tambah pekerjaan",
+        "rows_per_page": 20,
+        "sub_fields": [
+          {
+            "key": "field_aa_lingkup_teks",
+            "label": "Indonesia",
+            "name": "teks",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "",
+              "class": "",
+              "id": ""
+            },
+            "parent_repeater": "field_aa_lingkup"
+          },
+          {
+            "key": "field_aa_lingkup_en",
+            "label": "Inggris",
+            "name": "teks_en",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "",
+              "class": "",
+              "id": ""
+            },
+            "parent_repeater": "field_aa_lingkup"
+          }
+        ]
+      },
+      {
+        "key": "field_aa_dokumen",
+        "label": "Daftar dokumen yang perlu disiapkan",
+        "name": "dokumen",
+        "aria-label": "",
+        "type": "repeater",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "layout": "table",
+        "pagination": 0,
+        "min": 0,
+        "max": 0,
+        "collapsed": "",
+        "button_label": "Tambah dokumen",
+        "rows_per_page": 20,
+        "sub_fields": [
+          {
+            "key": "field_aa_dokumen_teks",
+            "label": "Dokumen",
+            "name": "teks",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "",
+              "class": "",
+              "id": ""
+            },
+            "parent_repeater": "field_aa_dokumen"
+          }
+        ]
+      },
+      {
+        "key": "field_aa_waktu",
+        "label": "Perkiraan waktu",
+        "name": "waktu",
+        "aria-label": "",
+        "type": "repeater",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "layout": "table",
+        "pagination": 0,
+        "min": 0,
+        "max": 0,
+        "collapsed": "",
+        "button_label": "Tambah tahap",
+        "rows_per_page": 20,
+        "sub_fields": [
+          {
+            "key": "field_aa_waktu_tahap",
+            "label": "Tahap",
+            "name": "tahap",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "",
+              "class": "",
+              "id": ""
+            },
+            "parent_repeater": "field_aa_waktu"
+          },
+          {
+            "key": "field_aa_waktu_durasi",
+            "label": "Durasi",
+            "name": "durasi",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "",
+              "class": "",
+              "id": ""
+            },
+            "parent_repeater": "field_aa_waktu"
+          }
+        ]
+      },
+      {
+        "key": "field_aa_faq",
+        "label": "Tanya jawab",
+        "name": "faq",
+        "aria-label": "",
+        "type": "repeater",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "layout": "table",
+        "pagination": 0,
+        "min": 0,
+        "max": 0,
+        "collapsed": "",
+        "button_label": "Tambah FAQ",
+        "rows_per_page": 20,
+        "sub_fields": [
+          {
+            "key": "field_aa_faq_tanya",
+            "label": "Pertanyaan",
+            "name": "tanya",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "",
+              "class": "",
+              "id": ""
+            },
+            "parent_repeater": "field_aa_faq"
+          },
+          {
+            "key": "field_aa_faq_jawab",
+            "label": "Jawaban",
+            "name": "jawab",
+            "aria-label": "",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "",
+              "class": "",
+              "id": ""
+            },
+            "rows": 3,
+            "new_lines": "",
+            "parent_repeater": "field_aa_faq"
+          }
+        ]
+      },
+      {
+        "key": "field_aa_pengalaman",
+        "label": "Pengalaman representatif (opsional)",
+        "name": "pengalaman",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "Satu pengalaman per baris, TANPA nama klien kecuali ada izin tertulis. Contoh: Mendampingi perusahaan konstruksi dalam sengketa wanprestasi kontrak proyek di PN Medan. Kosongkan bila belum ada; bagian ini otomatis tersembunyi.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "rows": 5,
+        "new_lines": ""
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "layanan"
+        }
+      ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0
+  },
+  {
+    "key": "group_autentik_tim",
+    "title": "Profil Anggota Tim",
+    "fields": [
+      {
+        "key": "field_at_status_profesi",
+        "label": "Status profesi",
+        "name": "status_profesi",
+        "aria-label": "",
+        "type": "select",
+        "instructions": "Wajib sesuai dokumen. Label \"Advokat\" dan tombol \"Konsultasi dengan…\" hanya tampil untuk status Advokat (sudah disumpah, ada Berita Acara Sumpah/KTA). Notaris mitra TIDAK ditampilkan sebagai anggota firma.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        },
+        "choices": {
+          "": "Belum dikonfirmasi",
+          "advokat": "Advokat",
+          "calon_advokat": "Calon advokat/magang",
+          "paralegal": "Paralegal",
+          "staf": "Staf",
+          "notaris_mitra": "Notaris mitra"
+        },
+        "default_value": "",
+        "allow_null": 0,
+        "multiple": 0,
+        "ui": 0,
+        "return_format": "value",
+        "ajax": 0,
+        "placeholder": ""
+      },
+      {
+        "key": "field_at_jabatan",
+        "label": "Jabatan",
+        "name": "jabatan",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Mis. Pendiri, Partner, Advokat, Paralegal. Jangan menulis \"Founder\".",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
+        "key": "field_at_gelar",
+        "label": "Gelar",
+        "name": "gelar",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Sesuai ijazah dan KTA, mis. S.H., M.H.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
+        "key": "field_at_no_bas",
+        "label": "No. Berita Acara Sumpah/KTA",
+        "name": "no_bas",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Isi hanya untuk Advokat. Contoh: BAS No. 12/2019 PT Medan · KTA 19.01234",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
+        "key": "field_at_no_izin",
+        "label": "Nomor Induk Advokat (NIA)",
+        "name": "no_izin",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Isi hanya untuk Advokat.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
+        "key": "field_at_organisasi",
+        "label": "Organisasi advokat",
+        "name": "organisasi",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Mis. PERADI DPC Medan",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
+        "key": "field_at_keahlian",
+        "label": "Bidang keahlian",
+        "name": "keahlian",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
+        "key": "field_at_bio",
+        "label": "Bio singkat (2–3 kalimat)",
+        "name": "bio",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "rows": 3,
+        "new_lines": ""
+      },
+      {
+        "key": "field_at_pimpinan",
+        "label": "Pendiri / pimpinan (tampil paling atas dan di beranda)",
+        "name": "pimpinan",
+        "aria-label": "",
+        "type": "true_false",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        },
+        "ui": 1,
+        "default_value": 0,
+        "message": "",
+        "ui_on_text": "Ya",
+        "ui_off_text": "Tidak"
+      },
+      {
+        "key": "field_at_email",
+        "label": "Email langsung (opsional)",
+        "name": "email",
+        "aria-label": "",
+        "type": "email",
+        "instructions": "Kosongkan bila semua kontak lewat email kantor.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
+        "key": "field_at_bahasa",
+        "label": "Bahasa",
+        "name": "bahasa",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Mis. Indonesia, Inggris",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
+        "key": "field_at_bidang",
+        "label": "Layanan yang ditangani",
+        "name": "bidang",
+        "aria-label": "",
+        "type": "relationship",
+        "instructions": "Orang ini tampil sebagai 'Tim yang Menangani' di halaman layanan yang dipilih.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "post_type": [
+          "layanan"
+        ],
+        "filters": [],
+        "elements": "",
+        "min": "",
+        "max": "",
+        "return_format": "id"
+      },
+      {
+        "key": "field_at_pendidikan",
+        "label": "Pendidikan",
+        "name": "pendidikan",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "Satu baris per gelar. Contoh: Magister Kenotariatan (M.Kn.), Universitas Sumatera Utara",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "rows": 3,
+        "new_lines": ""
+      },
+      {
+        "key": "field_at_keanggotaan",
+        "label": "Izin praktik dan keanggotaan profesi",
+        "name": "keanggotaan",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "Satu baris per item. Contoh: Advokat, anggota PERADI",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "rows": 3,
+        "new_lines": ""
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "tim"
+        }
+      ]
+    ],
+    "menu_order": 1,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0
+  },
+  {
+    "key": "group_autentik_klien",
+    "title": "Data Klien",
+    "fields": [
+      {
+        "key": "field_ak_izin",
+        "label": "Ada izin tertulis untuk menampilkan nama/logo",
+        "name": "izin_tayang",
+        "aria-label": "",
+        "type": "true_false",
+        "instructions": "Pilih Ya hanya bila klien sudah menandatangani izin tertulis (simpan salinannya). Tanpa izin, nama dan logo TIDAK tampil di situs (UU 18/2003 Pasal 19). Pengecualian: mode pratinjau klien di Tampilan › Sesuaikan (wajib mati saat tayang).",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "ui": 1,
+        "default_value": 0,
+        "message": "",
+        "ui_on_text": "Ya",
+        "ui_off_text": "Tidak"
+      },
+      {
+        "key": "field_ak_situs",
+        "label": "Situs perusahaan (opsional)",
+        "name": "situs",
+        "aria-label": "",
+        "type": "url",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        }
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "klien"
+        }
+      ]
+    ],
+    "menu_order": 2,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0
+  },
+  {
+    "key": "group_autentik_artikel",
+    "title": "Penulis dan Peninjau",
+    "fields": [
+      {
+        "key": "field_ap_penulis",
+        "label": "Ditulis oleh",
+        "name": "penulis_tim",
+        "aria-label": "",
+        "type": "post_object",
+        "instructions": "Wajib. Nama dan foto penulis tampil di artikel, dan artikel tampil di profilnya.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        },
+        "post_type": [
+          "tim"
+        ],
+        "allow_null": 1,
+        "multiple": 0,
+        "return_format": "id",
+        "ui": 1
+      },
+      {
+        "key": "field_ap_peninjau",
+        "label": "Ditinjau oleh",
+        "name": "peninjau_tim",
+        "aria-label": "",
+        "type": "post_object",
+        "instructions": "Wajib sebelum terbit. Hanya anggota berstatus Advokat yang muncul; bila kosong, minta administrator mengisi \"Status profesi\" di Tim hukum.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        },
+        "post_type": [
+          "tim"
+        ],
+        "allow_null": 1,
+        "multiple": 0,
+        "return_format": "id",
+        "ui": 1
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "post"
+        }
+      ]
+    ],
+    "menu_order": 3,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0
+  },
+  {
+    "key": "group_autentik_kategori",
+    "title": "Hubungan ke Layanan",
+    "fields": [
+      {
+        "key": "field_ac_layanan",
+        "label": "Layanan terkait",
+        "name": "layanan_terkait",
+        "aria-label": "",
+        "type": "post_object",
+        "instructions": "Artikel berkategori ini tampil di halaman layanan yang dipilih, dan sebaliknya. Wajib untuk kategori baru (tidak lagi bergantung pada slug).",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "post_type": [
+          "layanan"
+        ],
+        "allow_null": 1,
+        "multiple": 0,
+        "return_format": "id",
+        "ui": 1
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "taxonomy",
+          "operator": "==",
+          "value": "category"
+        }
+      ]
+    ],
+    "menu_order": 4,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0
+  }
+]

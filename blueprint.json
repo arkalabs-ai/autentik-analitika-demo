@@ -1,0 +1,69 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "landingPage": "/",
+  "preferredVersions": {
+    "php": "8.2",
+    "wp": "latest"
+  },
+  "features": {
+    "networking": true
+  },
+  "steps": [
+    {
+      "step": "login",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "wordpress.org/plugins",
+        "slug": "secure-custom-fields"
+      }
+    },
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/arkalabs-ai/autentik-analitika-demo/main/autentik-tema.zip"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/arkalabs-ai/autentik-analitika-demo/main/autentik-jenis-konten.zip"
+      }
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/arkalabs-ai/autentik-analitika-demo/main/autentik-konten.xml"
+      }
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/autentik-scf-fields.json",
+      "data": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/arkalabs-ai/autentik-analitika-demo/main/autentik-scf-fields.json"
+      }
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/demo-setup.php",
+      "data": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/arkalabs-ai/autentik-analitika-demo/main/demo-setup.php"
+      }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/wp-content/demo-setup.php';"
+    }
+  ]
+}
