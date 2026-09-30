@@ -4,21 +4,6 @@
     "title": "Isi Halaman Layanan",
     "fields": [
       {
-        "key": "field_aa_judul_en",
-        "label": "Judul Inggris (opsional)",
-        "name": "judul_en",
-        "aria-label": "",
-        "type": "text",
-        "instructions": "",
-        "required": 0,
-        "conditional_logic": 0,
-        "wrapper": {
-          "width": "50",
-          "class": "",
-          "id": ""
-        }
-      },
-      {
         "key": "field_aa_ikon",
         "label": "Nama ikon",
         "name": "ikon",
@@ -123,24 +108,8 @@
         "sub_fields": [
           {
             "key": "field_aa_lingkup_teks",
-            "label": "Indonesia",
+            "label": "Uraian pekerjaan",
             "name": "teks",
-            "aria-label": "",
-            "type": "text",
-            "instructions": "",
-            "required": 0,
-            "conditional_logic": 0,
-            "wrapper": {
-              "width": "",
-              "class": "",
-              "id": ""
-            },
-            "parent_repeater": "field_aa_lingkup"
-          },
-          {
-            "key": "field_aa_lingkup_en",
-            "label": "Inggris",
-            "name": "teks_en",
             "aria-label": "",
             "type": "text",
             "instructions": "",
@@ -311,7 +280,7 @@
       },
       {
         "key": "field_aa_pengalaman",
-        "label": "Pengalaman representatif (opsional)",
+        "label": "Pengalaman menangani perkara sejenis (opsional, tanpa nama klien)",
         "name": "pengalaman",
         "aria-label": "",
         "type": "textarea",

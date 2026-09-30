@@ -15,6 +15,10 @@
       "password": "password"
     },
     {
+      "step": "setSiteLanguage",
+      "language": "id_ID"
+    },
+    {
       "step": "installPlugin",
       "pluginData": {
         "resource": "wordpress.org/plugins",
