@@ -5,18 +5,46 @@
     "fields": [
       {
         "key": "field_aa_ikon",
-        "label": "Nama ikon",
+        "label": "Ikon",
         "name": "ikon",
         "aria-label": "",
-        "type": "text",
-        "instructions": "Nama ikon garis, mis. scale-balanced, file-badge, map",
+        "type": "select",
+        "instructions": "Pilih ikon garis dari daftar (ikon yang tersedia di tema).",
         "required": 0,
         "conditional_logic": 0,
         "wrapper": {
           "width": "50",
           "class": "",
           "id": ""
-        }
+        },
+        "choices": {
+          "scale": "Timbangan (hukum, perkara)",
+          "badge": "Lencana (perizinan)",
+          "pen": "Pena (akta, kenotariatan)",
+          "map": "Peta (pertanahan)",
+          "building": "Gedung (korporasi)",
+          "chart": "Grafik (investasi)",
+          "layers": "Lapisan",
+          "receipt": "Kuitansi",
+          "target": "Sasaran",
+          "shield": "Perisai",
+          "file": "Dokumen",
+          "user": "Orang",
+          "help": "Tanya jawab",
+          "headset": "Konsultasi",
+          "bell": "Lonceng",
+          "cal": "Kalender",
+          "clock": "Jam",
+          "info": "Informasi",
+          "link": "Tautan"
+        },
+        "default_value": "",
+        "allow_null": 1,
+        "multiple": 0,
+        "ui": 0,
+        "return_format": "value",
+        "ajax": 0,
+        "placeholder": ""
       },
       {
         "key": "field_aa_dek",
@@ -24,7 +52,7 @@
         "name": "dek",
         "aria-label": "",
         "type": "textarea",
-        "instructions": "",
+        "instructions": "Satu kalimat, idealnya paling banyak 160 karakter (batas keras 240).",
         "required": 0,
         "conditional_logic": 0,
         "wrapper": {
@@ -33,7 +61,8 @@
           "id": ""
         },
         "rows": 2,
-        "new_lines": ""
+        "new_lines": "",
+        "maxlength": 240
       },
       {
         "key": "field_aa_jawaban",
@@ -41,7 +70,7 @@
         "name": "jawaban_singkat",
         "aria-label": "",
         "type": "textarea",
-        "instructions": "",
+        "instructions": "Idealnya 40–60 kata (±400 karakter; batas keras 600).",
         "required": 0,
         "conditional_logic": 0,
         "wrapper": {
@@ -50,7 +79,8 @@
           "id": ""
         },
         "rows": 4,
-        "new_lines": ""
+        "new_lines": "",
+        "maxlength": 600
       },
       {
         "key": "field_aa_paragraf",
@@ -608,6 +638,21 @@
         "ui_off_text": "Tidak"
       },
       {
+        "key": "field_ak_izin_surat",
+        "label": "Tanggal & nomor surat izin",
+        "name": "izin_surat",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Opsional, sebagai jejak audit. Contoh: 12 Januari 2027, No. 015/AA/I/2027. Salinan surat disimpan di arsip kantor.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "50",
+          "class": "",
+          "id": ""
+        }
+      },
+      {
         "key": "field_ak_situs",
         "label": "Situs perusahaan (opsional)",
         "name": "situs",
@@ -748,6 +793,87 @@
     ],
     "menu_order": 4,
     "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0
+  },
+  {
+    "key": "group_autentik_cta",
+    "title": "CTA penutup",
+    "fields": [
+      {
+        "key": "field_cta_judul",
+        "label": "Judul CTA penutup",
+        "name": "cta_judul",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Opsional. Kosongkan untuk memakai judul bawaan halaman ini. Huruf kapital di awal saja, tanpa superlatif atau kata \"gratis\".",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "maxlength": 80
+      },
+      {
+        "key": "field_cta_teks",
+        "label": "Teks CTA penutup",
+        "name": "cta_teks",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "Opsional. Satu atau dua kalimat. Kosongkan untuk memakai teks bawaan.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "rows": 2,
+        "new_lines": "",
+        "maxlength": 240
+      },
+      {
+        "key": "field_cta_mikro",
+        "label": "Baris penenang di bawah tombol",
+        "name": "cta_mikro",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Opsional. Satu kalimat yang mengurangi keraguan, mis. \"Kami menanggapi paling lambat satu hari kerja.\" Tanpa janji hasil atau kata \"gratis\".",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "maxlength": 140
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "page"
+        }
+      ],
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "layanan"
+        }
+      ]
+    ],
+    "menu_order": 5,
+    "position": "side",
     "style": "default",
     "label_placement": "top",
     "instruction_placement": "label",

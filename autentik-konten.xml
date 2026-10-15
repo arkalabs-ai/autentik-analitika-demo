@@ -9,9 +9,9 @@
 <wp:base_site_url>http://autentik.local</wp:base_site_url>
 <wp:base_blog_url>http://autentik.local</wp:base_blog_url>
 <wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@autentik.local]]></wp:author_email><wp:author_display_name><![CDATA[Tim Hukum Autentik Analitika]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-<wp:category><wp:term_id>2</wp:term_id><wp:category_nicename><![CDATA[pertanahan]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Pertanahan]]></wp:cat_name></wp:category>
-<wp:category><wp:term_id>3</wp:term_id><wp:category_nicename><![CDATA[kenotariatan]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Badan Usaha]]></wp:cat_name></wp:category>
-<wp:category><wp:term_id>4</wp:term_id><wp:category_nicename><![CDATA[perizinan]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Perizinan]]></wp:cat_name></wp:category>
+<wp:category><wp:term_id>2</wp:term_id><wp:category_nicename><![CDATA[pertanahan]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Pertanahan]]></wp:cat_name><wp:termmeta><wp:meta_key><![CDATA[layanan_terkait]]></wp:meta_key><wp:meta_value><![CDATA[204]]></wp:meta_value></wp:termmeta><wp:termmeta><wp:meta_key><![CDATA[_layanan_terkait]]></wp:meta_key><wp:meta_value><![CDATA[field_ac_layanan]]></wp:meta_value></wp:termmeta></wp:category>
+<wp:category><wp:term_id>3</wp:term_id><wp:category_nicename><![CDATA[kenotariatan]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Badan Usaha]]></wp:cat_name><wp:termmeta><wp:meta_key><![CDATA[layanan_terkait]]></wp:meta_key><wp:meta_value><![CDATA[203]]></wp:meta_value></wp:termmeta><wp:termmeta><wp:meta_key><![CDATA[_layanan_terkait]]></wp:meta_key><wp:meta_value><![CDATA[field_ac_layanan]]></wp:meta_value></wp:termmeta></wp:category>
+<wp:category><wp:term_id>4</wp:term_id><wp:category_nicename><![CDATA[perizinan]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Perizinan]]></wp:cat_name><wp:termmeta><wp:meta_key><![CDATA[layanan_terkait]]></wp:meta_key><wp:meta_value><![CDATA[202]]></wp:meta_value></wp:termmeta><wp:termmeta><wp:meta_key><![CDATA[_layanan_terkait]]></wp:meta_key><wp:meta_value><![CDATA[field_ac_layanan]]></wp:meta_value></wp:termmeta></wp:category>
 <item>
 <title><![CDATA[Beranda]]></title>
 <link>http://autentik.local/beranda/</link>
@@ -20,11 +20,11 @@
 <guid isPermaLink="false">http://autentik.local/?p=101</guid>
 <description></description>
 <content:encoded><![CDATA[<!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading">Pendampingan hukum bisnis, perizinan, dan pertanahan di Medan</h1>
+<h1 class="wp-block-heading">Hukum bisnis, perizinan, dan pertanahan di Medan</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Kami memberikan konsultasi dan pendampingan hukum kepada pelaku usaha, perusahaan, dan keluarga di Sumatera Utara, mulai dari penyusunan kontrak dan perizinan usaha hingga jual beli dan pendaftaran tanah. Lingkup pekerjaan dan biaya jasa kami sampaikan secara tertulis sebelum pekerjaan dimulai.</p>
+<p>Kami menangani urusan kontrak, izin usaha, dan tanah bagi pelaku usaha dan keluarga di Medan. Lingkup kerja dan biaya jasa kita sepakati sebelum pekerjaan dimulai.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -36,70 +36,70 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Law Firm Autentik Analitika adalah kantor hukum yang berkedudukan di Medan Baru dan terdaftar di Kementerian Hukum RI sejak 2025. Kami memberikan jasa hukum kepada perusahaan dan perorangan, terutama dalam urusan kontrak, perizinan berusaha, dan pertanahan. Oleh karena ketiga urusan tersebut kerap berkaitan dalam satu persoalan, kami menelaahnya secara menyeluruh dan menyampaikan pendapat kami secara terus terang, termasuk risiko yang perlu Anda ketahui.</p>
+<p>Law Firm Autentik Analitika berkantor di Jalan Iskandar Muda, Medan Baru, sejak 2025 dan terdaftar di Kementerian Hukum RI. Sehari-hari kami menangani kontrak, izin usaha, dan tanah. Dalam praktik, ketiganya jarang berdiri sendiri: izin usaha bisa tertahan karena anggaran dasar, dan sengketa tanah sering berawal dari perjanjian yang lemah. Karena itu setiap persoalan kami periksa utuh, lalu hasilnya kami sampaikan apa adanya, termasuk bila kabarnya kurang menyenangkan.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">Bidang layanan kami</h2>
+<h2 class="wp-block-heading">Urusan hukum yang kami tangani</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Setiap bidang memiliki persyaratan dokumen dan instansi yang berbeda. Apabila Anda belum yakin persoalan Anda termasuk bidang yang mana, sampaikan saja kepada kami, dan kami akan membantu menentukan langkah yang tepat.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="/layanan/hukum/"><strong>Hukum Bisnis &amp; Penyelesaian Sengketa</strong></a> — Penyusunan dan telaah kontrak, penanganan somasi, serta pendampingan negosiasi, mediasi, arbitrase, dan gugatan perdata bagi perusahaan maupun perorangan, dengan penilaian kedudukan hukum sebelum langkah ditentukan.</li>
-<!-- /wp:list-item --><!-- wp:list-item -->
-<li><a href="/layanan/perizinan/"><strong>Perizinan Berusaha</strong></a> — Penelaahan kesesuaian KBLI dan persyaratan perizinan sebelum permohonan diajukan melalui OSS, serta pendampingan penerbitan NIB, Sertifikat Standar, dan izin sektoral hingga terbit keputusan instansi yang berwenang.</li>
-<!-- /wp:list-item --><!-- wp:list-item -->
-<li><a href="/layanan/kenotariatan/"><strong>Pendirian &amp; Perubahan Badan Usaha</strong></a> — Penyiapan nama badan usaha, struktur permodalan dan kepemilikan saham, serta KBLI untuk pendirian dan perubahan PT, CV, firma, dan yayasan; aktanya dibuat di hadapan notaris yang berwenang.</li>
-<!-- /wp:list-item --><!-- wp:list-item -->
-<li><a href="/layanan/pertanahan/"><strong>Hukum Pertanahan</strong></a> — Pemeriksaan riwayat dan status sertifikat di kantor pertanahan sebelum transaksi, pendampingan balik nama bersama PPAT, pendaftaran tanah dari alas hak lama, serta penyelesaian sengketa pertanahan di Medan dan Deli Serdang.</li>
-<!-- /wp:list-item --><!-- wp:list-item -->
-<li><a href="/layanan/korporasi/"><strong>Korporasi &amp; Kepatuhan</strong></a> — Uji tuntas hukum dan penelaahan kepatuhan atas anggaran dasar, risalah RUPS, perizinan, dan perjanjian perusahaan secara menyeluruh, serta pendampingan penggabungan, pengambilalihan, dan restrukturisasi perusahaan.</li>
-<!-- /wp:list-item --><!-- wp:list-item -->
-<li><a href="/layanan/investasi-properti/"><strong>Investasi &amp; Properti</strong></a> — Pemeriksaan aspek hukum atas lahan, aset, dan proyek properti bagi investor dan pengembang, meliputi status kepemilikan, perizinan, dan kesesuaian tata ruang, disertai laporan tertulis sebelum dana dibayarkan.</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Cara kami bekerja</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Ketentuan berikut kami terapkan pada setiap perkara dan urusan, tanpa membedakan besar kecilnya.</p>
+<p>Urusan di pengadilan, di OSS, dan di kantor pertanahan menuntut dokumen dan prosedur yang berbeda. Belum tahu persoalan Anda masuk bidang yang mana? Ceritakan saja duduk perkaranya; memilah bidang dan langkahnya adalah tugas kami.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Biaya jasa disepakati sejak awal</strong> — Lingkup pekerjaan, perkiraan waktu, dan biaya jasa hukum kami cantumkan dalam penawaran tertulis. Kami baru mulai bekerja setelah Anda menyetujui penawaran tersebut.</li>
+<li><a href="/layanan/hukum/"><strong>Hukum Bisnis &amp; Penyelesaian Sengketa</strong></a>: Kami menyusun dan menelaah kontrak, menjawab somasi, serta mendampingi negosiasi, mediasi, arbitrase, hingga gugatan perdata. Kedudukan hukum Anda kami nilai lebih dulu sebelum langkah dipilih.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Advokat penanggung jawab yang jelas</strong> — Setiap perkara ditangani oleh seorang advokat penanggung jawab yang namanya tercantum dalam penawaran. Anda dapat menghubungi advokat tersebut secara langsung hingga pekerjaan selesai.</li>
+<li><a href="/layanan/perizinan/"><strong>Perizinan Berusaha</strong></a>: Kami periksa kecocokan KBLI dan syarat izin sebelum permohonan masuk ke OSS, lalu mengawal penerbitan NIB, Sertifikat Standar, dan izin sektoral sampai keputusan instansi terbit.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Urusan yang berkaitan ditangani satu tim</strong> — Persoalan kontrak, perizinan, dan pertanahan sering kali saling berkaitan. Oleh karena itu, seluruhnya kami tangani dalam satu tim sehingga Anda tidak perlu menjelaskan persoalan yang sama kepada beberapa pihak.</li>
+<li><a href="/layanan/kenotariatan/"><strong>Pendirian &amp; Perubahan Badan Usaha</strong></a>: Kami siapkan nama, susunan modal dan saham, serta KBLI untuk pendirian dan perubahan PT, CV, firma, dan yayasan. Aktanya dibuat di hadapan notaris yang berwenang.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Kerahasiaan dan benturan kepentingan</strong> — Sebelum menerima perkara, kami memeriksa ada atau tidaknya benturan kepentingan. Keterangan dan dokumen yang Anda sampaikan hanya dibahas oleh tim yang menangani perkara Anda.</li>
+<li><a href="/layanan/pertanahan/"><strong>Hukum Pertanahan</strong></a>: Sebelum transaksi, riwayat dan status sertifikat kami periksa di kantor pertanahan. Kami juga mendampingi balik nama bersama PPAT, pendaftaran tanah dari alas hak lama, dan sengketa tanah di Medan dan Deli Serdang.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li><a href="/layanan/korporasi/"><strong>Korporasi &amp; Kepatuhan</strong></a>: Kami periksa anggaran dasar, risalah RUPS, perizinan, dan perjanjian perusahaan Anda secara menyeluruh, serta mendampingi penggabungan, pengambilalihan, dan restrukturisasi.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li><a href="/layanan/investasi-properti/"><strong>Investasi &amp; Properti</strong></a>: Sebelum dana Anda keluar, kami periksa status kepemilikan, perizinan, dan kesesuaian tata ruang lahan atau proyek properti, lalu menyerahkan laporan hasilnya kepada Anda.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">Alur penanganan</h2>
+<h2 class="wp-block-heading">Pegangan kami dalam bekerja</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Kami menyampaikan perkembangan pada setiap tahap. Pekerjaan baru dimulai setelah Anda menyetujui penawaran tertulis.</p>
+<p>Berlaku untuk setiap perkara dan urusan, besar ataupun kecil.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Biaya jasa disepakati sejak awal</strong>: Lingkup pekerjaan, perkiraan waktu, dan biaya jasa hukum kami cantumkan dalam penawaran. Kami baru mulai bekerja setelah Anda menyetujui penawaran tersebut.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li><strong>Satu penanggung jawab yang jelas</strong>: Setiap perkara dipegang satu penanggung jawab dari tim kami, dan namanya tercantum dalam penawaran. Sampai pekerjaan selesai, Anda cukup berhubungan dengan orang yang sama.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li><strong>Satu tim untuk urusan yang saling terkait</strong>: Kontrak, izin, dan tanah sering bertemu dalam satu persoalan. Karena ditangani satu tim, Anda tidak perlu mengulang cerita yang sama kepada beberapa pihak.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li><strong>Kerahasiaan dan benturan kepentingan</strong>: Sebelum menerima perkara, kami pastikan tidak sedang mewakili pihak lawan Anda. Keterangan dan dokumen Anda hanya dibahas tim yang menangani.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Dari konsultasi sampai pelaksanaan</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Di setiap tahap Anda tahu sampai di mana urusan Anda. Kami baru mulai bekerja setelah Anda menyetujui penawaran.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Konsultasi</strong> — Anda menyampaikan persoalan, lalu kami mendengarkan dan mengajukan pertanyaan yang diperlukan. Pada tahap ini kami juga memastikan bahwa persoalan Anda termasuk dalam bidang yang kami tangani.</li>
+<li><strong>Konsultasi</strong>: Anda menceritakan persoalannya, kami bertanya sampai duduk perkaranya jelas. Di tahap ini kami juga memastikan persoalan Anda memang masuk bidang yang kami tangani.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Telaah</strong> — Kami mempelajari dokumen, memeriksa dasar hukum dan kedudukan hukum para pihak, lalu menjelaskan pilihan langkah beserta risikonya.</li>
+<li><strong>Telaah</strong>: Kami membaca dokumen Anda, memeriksa dasar hukumnya, dan menilai kedudukan masing-masing pihak. Setelah itu kami jelaskan pilihan langkah yang ada, lengkap dengan risikonya.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Penawaran</strong> — Kami menyampaikan penawaran tertulis yang memuat lingkup pekerjaan, dokumen yang perlu disiapkan, perkiraan waktu, dan biaya jasa. Pekerjaan dimulai setelah Anda menyetujuinya.</li>
+<li><strong>Penawaran</strong>: Anda menerima penawaran berisi lingkup pekerjaan, dokumen yang perlu disiapkan, perkiraan waktu, dan biaya jasa hukum. Tidak ada pekerjaan yang berjalan sebelum Anda setuju.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Pelaksanaan</strong> — Kami menangani perkara atau urusan Anda hingga selesai dan melaporkan perkembangannya pada setiap tahap penting.</li>
+<li><strong>Pelaksanaan</strong>: Setelah perjanjian jasa hukum ditandatangani, kami kerjakan urusan Anda sesuai lingkup yang disepakati dan mengabarkan perkembangannya di setiap tahap penting.</li>
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
@@ -109,25 +109,25 @@
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Bagaimana biaya jasa hukum ditentukan?</summary><!-- wp:paragraph -->
-<p>Biaya jasa hukum ditentukan berdasarkan lingkup pekerjaan, tingkat kerumitan perkara, dan perkiraan waktu yang diperlukan. Rinciannya kami sampaikan dalam penawaran tertulis, dan pekerjaan baru kami mulai setelah Anda menyetujuinya. Biaya instansi, seperti PNBP dan pajak, dibayarkan terpisah sesuai ketentuan yang berlaku.</p>
+<p>Biaya jasa hukum ditentukan berdasarkan lingkup pekerjaan, tingkat kerumitan perkara, dan perkiraan waktu yang diperlukan. Rinciannya kami sampaikan dalam penawaran, dan pekerjaan baru kami mulai setelah Anda menyetujuinya. Biaya instansi, seperti PNBP dan pajak, dibayarkan terpisah sesuai ketentuan yang berlaku.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Siapa yang akan menangani perkara saya?</summary><!-- wp:paragraph -->
-<p>Setiap perkara ditangani oleh seorang advokat penanggung jawab yang namanya tercantum dalam penawaran tertulis. Anda dapat berhubungan langsung dengan advokat tersebut hingga pekerjaan selesai.</p>
+<p>Setiap perkara dipegang satu penanggung jawab dari tim kami. Namanya tercantum dalam penawaran, dan Anda dapat berhubungan langsung dengannya sampai pekerjaan selesai.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Dokumen apa yang perlu dibawa saat konsultasi pertama?</summary><!-- wp:paragraph -->
-<p>Cukup bawa KTP dan dokumen yang berkaitan dengan persoalan Anda. Dokumen tidak harus lengkap; kami akan memberitahukan dokumen apa saja yang masih diperlukan.</p>
+<p>Cukup bawa KTP dan dokumen yang berkaitan dengan persoalan Anda. Belum lengkap pun tidak menjadi soal; kekurangannya kami sampaikan setelah konsultasi.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Bagaimana jika pihak lawan saya pernah atau sedang menjadi klien Autentik Analitika?</summary><!-- wp:paragraph -->
-<p>Sebelum menerima perkara, kami memeriksa ada atau tidaknya benturan kepentingan. Apabila terdapat benturan kepentingan, kami menyampaikannya kepada Anda sejak awal dan tidak akan menangani perkara tersebut.</p>
+<p>Sebelum menerima perkara, kami memeriksa ada atau tidaknya benturan kepentingan. Bila ternyata ada, kami sampaikan kepada Anda sejak awal dan perkara itu tidak kami tangani.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
@@ -145,22 +145,22 @@
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Berapa lama pesan saya ditanggapi?</summary><!-- wp:paragraph -->
-<p>Setiap pesan yang masuk pada hari kerja kami baca pada hari yang sama dan kami tanggapi paling lambat satu hari kerja.</p>
+<p>Pesan yang masuk pada hari kerja kami baca hari itu juga dan kami balas paling lambat satu hari kerja.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Bagaimana cara memastikan bahwa pesan atau tagihan yang mengatasnamakan kantor ini asli?</summary><!-- wp:paragraph -->
-<p>Tagihan jasa hukum kami terbitkan secara tertulis atas nama firma. Apabila Anda menerima permintaan pembayaran, dokumen, atau pesan yang mengatasnamakan kantor atau anggota tim kami dan Anda meragukan keasliannya, mohon lakukan konfirmasi terlebih dahulu melalui nomor telepon dan email resmi yang tercantum di halaman Kontak sebelum menindaklanjutinya.</p>
+<p>Tagihan jasa hukum kami terbitkan atas nama firma. Apabila Anda menerima permintaan pembayaran, dokumen, atau pesan yang mengatasnamakan kantor atau anggota tim kami dan Anda meragukan keasliannya, tanyakan dulu kepada kami melalui nomor telepon dan email resmi di halaman Kontak sebelum menindaklanjutinya.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">Dokumen belum lengkap? Anda tetap dapat berkonsultasi</h2>
+<h2 class="wp-block-heading">Persoalan hukum jangan dibiarkan berlarut-larut</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Anda cukup menyampaikan persoalannya terlebih dahulu. Selanjutnya, kami akan memberitahukan dokumen yang diperlukan beserta perkiraan biayanya.</p>
+<p>Sampaikan saja pokok persoalannya kepada kami, walaupun dokumennya belum lengkap. Kami jelaskan secara terus terang: langkah yang perlu diambil, dokumen yang harus disiapkan, dan perkiraan biaya jasa hukumnya.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
 <wp:post_id>101</wp:post_id>
@@ -178,7 +178,7 @@
 <wp:post_password><![CDATA[]]></wp:post_password>
 <wp:is_sticky>0</wp:is_sticky>
 <wp:postmeta><wp:meta_key><![CDATA[rank_math_title]]></wp:meta_key><wp:meta_value><![CDATA[Kantor Hukum Medan: Bisnis, Izin Usaha & Tanah | Autentik Analitika]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[rank_math_description]]></wp:meta_key><wp:meta_value><![CDATA[Kantor hukum di Medan bagi pelaku usaha dan keluarga: kontrak, perizinan OSS, pendirian PT, dan pertanahan. Lingkup dan biaya jasa disampaikan tertulis.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[rank_math_description]]></wp:meta_key><wp:meta_value><![CDATA[Kantor hukum di Medan bagi pelaku usaha dan keluarga: kontrak, perizinan OSS, pendirian PT, dan pertanahan. Lingkup dan biaya jasa disepakati di awal.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[rank_math_focus_keyword]]></wp:meta_key><wp:meta_value><![CDATA[kantor hukum medan]]></wp:meta_value></wp:postmeta>
 </item>
 <item>
@@ -189,11 +189,11 @@
 <guid isPermaLink="false">http://autentik.local/?p=102</guid>
 <description></description>
 <content:encoded><![CDATA[<!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading">Kantor hukum di Medan Baru yang melayani perusahaan dan perorangan</h1>
+<h1 class="wp-block-heading">Kantor hukum di Medan untuk pelaku usaha dan keluarga</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Law Firm Autentik Analitika didirikan pada 2025 dan terdaftar di Kementerian Hukum RI. Data legalitas dan susunan tim kami cantumkan di halaman ini agar dapat Anda periksa sendiri.</p>
+<p>Berdiri pada 2025 dan terdaftar di Kementerian Hukum RI. Siapa kami, siapa yang bekerja, dan nomor legalitas kami ada di halaman ini untuk Anda periksa sendiri.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -201,11 +201,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Law Firm Autentik Analitika adalah kantor hukum di Medan yang memberikan jasa konsultasi dan pendampingan hukum kepada perusahaan dan perorangan. Bidang yang kami tangani meliputi hukum bisnis dan penyelesaian sengketa, perizinan berusaha, pendirian badan usaha, pertanahan, serta kepatuhan perusahaan. Bidang-bidang tersebut kerap berkaitan satu sama lain: jual beli tanah memerlukan akta PPAT, perizinan usaha harus sejalan dengan anggaran dasar, dan tidak sedikit sengketa bermula dari dokumen yang sejak awal tidak disusun dengan cermat. Oleh karena itu, kami menangani bidang-bidang tersebut secara terpadu dalam satu kantor.</p>
+<p>Law Firm Autentik Analitika adalah kantor hukum di Medan yang memberi konsultasi dan pendampingan hukum kepada perusahaan dan perorangan. Bidang kami: hukum bisnis dan penyelesaian sengketa, perizinan berusaha, pendirian badan usaha, pertanahan, serta kepatuhan perusahaan. Dalam praktik, bidang-bidang ini saling bersinggungan. Jual beli tanah memerlukan akta PPAT, izin usaha harus sejalan dengan anggaran dasar, dan tidak sedikit sengketa berawal dari dokumen yang sejak awal disusun seadanya. Karena itu semuanya kami tangani dalam satu kantor.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kantor ini didirikan oleh Ketlyn Purnama Siahaan pada 2025. Sebagai kantor hukum yang baru berdiri, kami mengutamakan tata kerja yang jelas, data legalitas yang terbuka untuk diperiksa, serta laporan perkembangan yang teratur, sehingga Anda senantiasa mengetahui kedudukan perkara Anda.</p>
+<p>Kantor ini didirikan Ketlyn Purnama Siahaan pada 2025. Kami kantor yang masih muda, dan hal itu tidak kami tutupi. Yang kami pegang adalah cara kerja yang jelas, legalitas yang terbuka untuk diperiksa, dan laporan yang teratur, supaya Anda selalu tahu sampai di mana perkara Anda.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -217,24 +217,24 @@
 <!-- /wp:table -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">Komitmen kami kepada klien</h2>
+<h2 class="wp-block-heading">Lima hal yang dapat Anda pegang dari kami</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Kami menerapkan prinsip berikut dalam setiap perkara dan urusan, dan Anda berhak meminta kami untuk memenuhinya.</p>
+<p>Berlaku untuk setiap perkara dan urusan. Bila salah satunya tidak kami penuhi, Anda berhak menagihnya.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Biaya jasa disampaikan tertulis sebelum pekerjaan dimulai</strong> — Lingkup pekerjaan, perkiraan waktu, dan biaya jasa hukum kami cantumkan dalam penawaran tertulis. Kami baru mulai bekerja setelah Anda menyetujui penawaran tersebut.</li>
+<li><strong>Biaya jelas sebelum pekerjaan dimulai</strong>: Lingkup pekerjaan, perkiraan waktu, dan biaya jasa hukum kami cantumkan dalam penawaran. Kami baru mulai bekerja setelah Anda menyetujui penawaran tersebut.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Penanggung jawab disebutkan namanya</strong> — Nama advokat yang menangani perkara Anda kami cantumkan dalam penawaran tertulis. Anda dapat berhubungan langsung dengan advokat tersebut hingga pekerjaan selesai.</li>
+<li><strong>Penanggung jawab disebut namanya</strong>: Nama anggota tim yang memegang perkara Anda tercantum dalam penawaran. Sampai pekerjaan selesai, Anda berhubungan langsung dengannya.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Benturan kepentingan diperiksa lebih dulu</strong> — Sebelum membahas pokok persoalan Anda, kami memeriksa ada atau tidaknya benturan kepentingan dengan klien kami yang lain. Dalam hal terdapat benturan kepentingan, kami memberitahukannya kepada Anda sejak awal dan tidak menerima perkara tersebut.</li>
+<li><strong>Benturan kepentingan diperiksa lebih dulu</strong>: Sebelum masuk ke pokok persoalan, kami periksa dulu apakah ada benturan kepentingan dengan klien kami yang lain. Bila ternyata ada, kami sampaikan sejak awal dan perkara itu tidak kami terima.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Balasan paling lambat satu hari kerja</strong> — Setiap pesan yang masuk pada hari kerja kami baca pada hari yang sama dan kami tanggapi paling lambat satu hari kerja.</li>
+<li><strong>Balasan paling lambat satu hari kerja</strong>: Pesan yang masuk pada hari kerja kami baca hari itu juga dan kami balas paling lambat satu hari kerja.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Hasil telaah disampaikan secara terus terang</strong> — Kami menyampaikan hasil telaah apa adanya, termasuk apabila menurut penilaian kami persoalan Anda sebaiknya tidak diajukan ke pengadilan atau transaksi Anda sebaiknya ditunda.</li>
+<li><strong>Hasil telaah disampaikan apa adanya</strong>: Termasuk bila menurut penilaian kami persoalan Anda sebaiknya tidak dibawa ke pengadilan, atau transaksi Anda sebaiknya ditunda dulu.</li>
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
@@ -243,20 +243,20 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>Visi:</strong> Menjadi kantor hukum yang dikenal karena ketelitian, integritas, dan kejelasan layanannya di bidang hukum bisnis, perizinan, dan pertanahan bagi dunia usaha dan masyarakat Sumatera Utara.</p>
+<p><strong>Visi:</strong> Menjadi kantor hukum di Sumatera Utara yang dapat dipegang kata-katanya: teliti memeriksa, jujur menyampaikan, dan jelas bekerja, khususnya di bidang hukum bisnis, perizinan, dan pertanahan bagi dunia usaha dan masyarakat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Layanan yang cermat</strong> — Memberikan layanan hukum yang cermat dan dapat dipertanggungjawabkan.</li>
+<li><strong>Teliti sejak dokumen pertama</strong>: Memeriksa setiap dokumen dengan cermat dan memberikan pendapat hukum yang dapat dipertanggungjawabkan.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Sesuai kebutuhan klien</strong> — Menyusun langkah hukum yang sesuai dengan kebutuhan dan kemampuan klien.</li>
+<li><strong>Sesuai kebutuhan dan kemampuan</strong>: Menyusun langkah hukum yang sesuai dengan kebutuhan dan kemampuan klien.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Kepastian hukum</strong> — Mengupayakan kepastian hukum bagi klien melalui pendampingan yang cermat dan sesuai dengan Kode Etik Advokat Indonesia.</li>
+<li><strong>Kepastian hukum</strong>: Mengupayakan kepastian hukum bagi klien dengan tetap berpegang pada Kode Etik Advokat Indonesia.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Pendampingan berkelanjutan</strong> — Mendampingi perusahaan dan masyarakat dalam menghadapi persoalan hukum, sejak tahap pencegahan hingga penyelesaian.</li>
+<li><strong>Mencegah sebelum bersengketa</strong>: Mendampingi perusahaan dan masyarakat sejak tahap pencegahan, sebelum persoalan menjadi sengketa, sampai penyelesaiannya.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Tanggap dan tuntas</strong> — Menanggapi setiap pertanyaan klien secara tepat waktu dan menyelesaikan setiap urusan hingga tuntas.</li>
+<li><strong>Tanggap dan bertanggung jawab</strong>: Membalas setiap pertanyaan klien tepat waktu dan mengerjakan setiap urusan sesuai lingkup yang disepakati.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->]]></content:encoded>
 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -285,46 +285,46 @@
 <guid isPermaLink="false">http://autentik.local/?p=103</guid>
 <description></description>
 <content:encoded><![CDATA[<!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading">Layanan hukum bagi perusahaan dan perorangan</h1>
+<h1 class="wp-block-heading">Layanan hukum untuk usaha dan keluarga</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Silakan pilih bidang yang sesuai dengan persoalan Anda. Apabila Anda belum yakin, mulailah dengan konsultasi, dan kami akan membantu menentukan bidang serta langkah yang tepat.</p>
+<p>Pilih bidang yang sesuai dengan persoalan Anda. Bila belum yakin, mulai saja dengan konsultasi; bidang dan langkahnya kita tentukan bersama.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="/layanan/hukum/"><strong>Hukum Bisnis &amp; Penyelesaian Sengketa</strong></a> — Penyusunan dan telaah kontrak, penanganan somasi, serta pendampingan negosiasi, mediasi, arbitrase, dan gugatan perdata bagi perusahaan maupun perorangan, dengan penilaian kedudukan hukum sebelum langkah ditentukan.</li>
+<li><a href="/layanan/hukum/"><strong>Hukum Bisnis &amp; Penyelesaian Sengketa</strong></a>: Kami menyusun dan menelaah kontrak, menjawab somasi, serta mendampingi negosiasi, mediasi, arbitrase, hingga gugatan perdata. Kedudukan hukum Anda kami nilai lebih dulu sebelum langkah dipilih.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><a href="/layanan/perizinan/"><strong>Perizinan Berusaha</strong></a> — Penelaahan kesesuaian KBLI dan persyaratan perizinan sebelum permohonan diajukan melalui OSS, serta pendampingan penerbitan NIB, Sertifikat Standar, dan izin sektoral hingga terbit keputusan instansi yang berwenang.</li>
+<li><a href="/layanan/perizinan/"><strong>Perizinan Berusaha</strong></a>: Kami periksa kecocokan KBLI dan syarat izin sebelum permohonan masuk ke OSS, lalu mengawal penerbitan NIB, Sertifikat Standar, dan izin sektoral sampai keputusan instansi terbit.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><a href="/layanan/kenotariatan/"><strong>Pendirian &amp; Perubahan Badan Usaha</strong></a> — Penyiapan nama badan usaha, struktur permodalan dan kepemilikan saham, serta KBLI untuk pendirian dan perubahan PT, CV, firma, dan yayasan; aktanya dibuat di hadapan notaris yang berwenang.</li>
+<li><a href="/layanan/kenotariatan/"><strong>Pendirian &amp; Perubahan Badan Usaha</strong></a>: Kami siapkan nama, susunan modal dan saham, serta KBLI untuk pendirian dan perubahan PT, CV, firma, dan yayasan. Aktanya dibuat di hadapan notaris yang berwenang.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><a href="/layanan/pertanahan/"><strong>Hukum Pertanahan</strong></a> — Pemeriksaan riwayat dan status sertifikat di kantor pertanahan sebelum transaksi, pendampingan balik nama bersama PPAT, pendaftaran tanah dari alas hak lama, serta penyelesaian sengketa pertanahan di Medan dan Deli Serdang.</li>
+<li><a href="/layanan/pertanahan/"><strong>Hukum Pertanahan</strong></a>: Sebelum transaksi, riwayat dan status sertifikat kami periksa di kantor pertanahan. Kami juga mendampingi balik nama bersama PPAT, pendaftaran tanah dari alas hak lama, dan sengketa tanah di Medan dan Deli Serdang.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><a href="/layanan/korporasi/"><strong>Korporasi &amp; Kepatuhan</strong></a> — Uji tuntas hukum dan penelaahan kepatuhan atas anggaran dasar, risalah RUPS, perizinan, dan perjanjian perusahaan secara menyeluruh, serta pendampingan penggabungan, pengambilalihan, dan restrukturisasi perusahaan.</li>
+<li><a href="/layanan/korporasi/"><strong>Korporasi &amp; Kepatuhan</strong></a>: Kami periksa anggaran dasar, risalah RUPS, perizinan, dan perjanjian perusahaan Anda secara menyeluruh, serta mendampingi penggabungan, pengambilalihan, dan restrukturisasi.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><a href="/layanan/investasi-properti/"><strong>Investasi &amp; Properti</strong></a> — Pemeriksaan aspek hukum atas lahan, aset, dan proyek properti bagi investor dan pengembang, meliputi status kepemilikan, perizinan, dan kesesuaian tata ruang, disertai laporan tertulis sebelum dana dibayarkan.</li>
+<li><a href="/layanan/investasi-properti/"><strong>Investasi &amp; Properti</strong></a>: Sebelum dana Anda keluar, kami periksa status kepemilikan, perizinan, dan kesesuaian tata ruang lahan atau proyek properti, lalu menyerahkan laporan hasilnya kepada Anda.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">Alur penanganan setiap layanan</h2>
+<h2 class="wp-block-heading">Alurnya sama untuk semua layanan</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Pekerjaan baru dimulai setelah Anda menyetujui penawaran tertulis.</p>
+<p>Kami baru mulai bekerja setelah Anda menyetujui penawaran.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Konsultasi</strong> — Anda menyampaikan persoalan, lalu kami mendengarkan dan mengajukan pertanyaan yang diperlukan. Pada tahap ini kami juga memastikan bahwa persoalan Anda termasuk dalam bidang yang kami tangani.</li>
+<li><strong>Konsultasi</strong>: Anda menceritakan persoalannya, kami bertanya sampai duduk perkaranya jelas. Di tahap ini kami juga memastikan persoalan Anda memang masuk bidang yang kami tangani.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Telaah</strong> — Kami mempelajari dokumen, memeriksa dasar hukum dan kedudukan hukum para pihak, lalu menjelaskan pilihan langkah beserta risikonya.</li>
+<li><strong>Telaah</strong>: Kami membaca dokumen Anda, memeriksa dasar hukumnya, dan menilai kedudukan masing-masing pihak. Setelah itu kami jelaskan pilihan langkah yang ada, lengkap dengan risikonya.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Penawaran</strong> — Kami menyampaikan penawaran tertulis yang memuat lingkup pekerjaan, dokumen yang perlu disiapkan, perkiraan waktu, dan biaya jasa. Pekerjaan dimulai setelah Anda menyetujuinya.</li>
+<li><strong>Penawaran</strong>: Anda menerima penawaran berisi lingkup pekerjaan, dokumen yang perlu disiapkan, perkiraan waktu, dan biaya jasa hukum. Tidak ada pekerjaan yang berjalan sebelum Anda setuju.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li><strong>Pelaksanaan</strong> — Kami menangani perkara atau urusan Anda hingga selesai dan melaporkan perkembangannya pada setiap tahap penting.</li>
+<li><strong>Pelaksanaan</strong>: Setelah perjanjian jasa hukum ditandatangani, kami kerjakan urusan Anda sesuai lingkup yang disepakati dan mengabarkan perkembangannya di setiap tahap penting.</li>
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->]]></content:encoded>
 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -357,7 +357,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Berikut susunan tim hukum Law Firm Autentik Analitika beserta gelar setiap anggota.</p>
+<p>Kenali dulu orang-orang yang akan bekerja untuk Anda. Setiap perkara dipegang satu penanggung jawab, dan namanya kami sebutkan sejak penawaran.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
 <wp:post_id>104</wp:post_id>
@@ -389,7 +389,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Kami mendampingi perusahaan yang bergerak di sektor konstruksi, energi, transportasi, dan industri di Sumatera Utara. Nama dan logo klien hanya kami tampilkan setelah memperoleh izin tertulis dari perusahaan yang bersangkutan.</p>
+<p>Kami mendampingi perusahaan konstruksi, energi, transportasi, dan industri di Sumatera Utara. Nama mereka tidak kami tampilkan tanpa izin, karena menjaga rahasia klien adalah kewajiban advokat.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
 <wp:post_id>105</wp:post_id>
@@ -407,7 +407,7 @@
 <wp:post_password><![CDATA[]]></wp:post_password>
 <wp:is_sticky>0</wp:is_sticky>
 <wp:postmeta><wp:meta_key><![CDATA[rank_math_title]]></wp:meta_key><wp:meta_value><![CDATA[Klien dan Sektor Usaha yang Kami Dampingi | Autentik Analitika]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[rank_math_description]]></wp:meta_key><wp:meta_value><![CDATA[Law Firm Autentik Analitika mendampingi perusahaan konstruksi, energi, transportasi, dan industri di Sumatera Utara. Nama klien tampil atas izin tertulis.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[rank_math_description]]></wp:meta_key><wp:meta_value><![CDATA[Law Firm Autentik Analitika mendampingi perusahaan konstruksi, energi, transportasi, dan industri di Sumatera Utara. Nama klien tampil hanya dengan izin klien.]]></wp:meta_value></wp:postmeta>
 </item>
 <item>
 <title><![CDATA[Artikel]]></title>
@@ -447,7 +447,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Anda dapat datang langsung, menelepon, atau mengirimkan ringkasan persoalan terlebih dahulu agar pertemuan pertama dapat langsung membahas pokok persoalan.</p>
+<p>Datang ke kantor, telepon, atau kirim ringkasan persoalan lebih dulu. Dengan begitu, pertemuan pertama bisa langsung masuk ke pokok persoalan.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:table -->
@@ -455,7 +455,7 @@
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>Setiap pesan yang masuk pada hari kerja kami baca pada hari yang sama dan kami tanggapi paling lambat satu hari kerja. Apabila persoalan Anda berada di luar bidang yang kami tangani, hal tersebut kami sampaikan sejak awal.</p>
+<p>Pesan yang masuk pada hari kerja kami baca hari itu juga dan kami balas paling lambat satu hari kerja. Bila persoalan Anda di luar bidang kami, hal itu kami sampaikan sejak awal.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -495,30 +495,30 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Sampaikan persoalan Anda melalui formulir berikut. Tim kami di Medan akan menanggapi paling lambat satu hari kerja.</p>
+<p>Ceritakan persoalan Anda lewat formulir berikut. Tim kami di Medan membalas paling lambat satu hari kerja.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Bagaimana biaya jasa hukum ditentukan?</summary><!-- wp:paragraph -->
-<p>Biaya jasa hukum ditentukan berdasarkan lingkup pekerjaan, tingkat kerumitan perkara, dan perkiraan waktu yang diperlukan. Rinciannya kami sampaikan dalam penawaran tertulis, dan pekerjaan baru kami mulai setelah Anda menyetujuinya. Biaya instansi, seperti PNBP dan pajak, dibayarkan terpisah sesuai ketentuan yang berlaku.</p>
+<p>Biaya jasa hukum ditentukan berdasarkan lingkup pekerjaan, tingkat kerumitan perkara, dan perkiraan waktu yang diperlukan. Rinciannya kami sampaikan dalam penawaran, dan pekerjaan baru kami mulai setelah Anda menyetujuinya. Biaya instansi, seperti PNBP dan pajak, dibayarkan terpisah sesuai ketentuan yang berlaku.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Siapa yang akan menangani perkara saya?</summary><!-- wp:paragraph -->
-<p>Setiap perkara ditangani oleh seorang advokat penanggung jawab yang namanya tercantum dalam penawaran tertulis. Anda dapat berhubungan langsung dengan advokat tersebut hingga pekerjaan selesai.</p>
+<p>Setiap perkara dipegang satu penanggung jawab dari tim kami. Namanya tercantum dalam penawaran, dan Anda dapat berhubungan langsung dengannya sampai pekerjaan selesai.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Dokumen apa yang perlu dibawa saat konsultasi pertama?</summary><!-- wp:paragraph -->
-<p>Cukup bawa KTP dan dokumen yang berkaitan dengan persoalan Anda. Dokumen tidak harus lengkap; kami akan memberitahukan dokumen apa saja yang masih diperlukan.</p>
+<p>Cukup bawa KTP dan dokumen yang berkaitan dengan persoalan Anda. Belum lengkap pun tidak menjadi soal; kekurangannya kami sampaikan setelah konsultasi.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Bagaimana jika pihak lawan saya pernah atau sedang menjadi klien Autentik Analitika?</summary><!-- wp:paragraph -->
-<p>Sebelum menerima perkara, kami memeriksa ada atau tidaknya benturan kepentingan. Apabila terdapat benturan kepentingan, kami menyampaikannya kepada Anda sejak awal dan tidak akan menangani perkara tersebut.</p>
+<p>Sebelum menerima perkara, kami memeriksa ada atau tidaknya benturan kepentingan. Bila ternyata ada, kami sampaikan kepada Anda sejak awal dan perkara itu tidak kami tangani.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
@@ -536,13 +536,13 @@
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Berapa lama pesan saya ditanggapi?</summary><!-- wp:paragraph -->
-<p>Setiap pesan yang masuk pada hari kerja kami baca pada hari yang sama dan kami tanggapi paling lambat satu hari kerja.</p>
+<p>Pesan yang masuk pada hari kerja kami baca hari itu juga dan kami balas paling lambat satu hari kerja.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Bagaimana cara memastikan bahwa pesan atau tagihan yang mengatasnamakan kantor ini asli?</summary><!-- wp:paragraph -->
-<p>Tagihan jasa hukum kami terbitkan secara tertulis atas nama firma. Apabila Anda menerima permintaan pembayaran, dokumen, atau pesan yang mengatasnamakan kantor atau anggota tim kami dan Anda meragukan keasliannya, mohon lakukan konfirmasi terlebih dahulu melalui nomor telepon dan email resmi yang tercantum di halaman Kontak sebelum menindaklanjutinya.</p>
+<p>Tagihan jasa hukum kami terbitkan atas nama firma. Apabila Anda menerima permintaan pembayaran, dokumen, atau pesan yang mengatasnamakan kantor atau anggota tim kami dan Anda meragukan keasliannya, tanyakan dulu kepada kami melalui nomor telepon dan email resmi di halaman Kontak sebelum menindaklanjutinya.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
@@ -569,8 +569,41 @@
 <wp:post_password><![CDATA[]]></wp:post_password>
 <wp:is_sticky>0</wp:is_sticky>
 <wp:postmeta><wp:meta_key><![CDATA[rank_math_title]]></wp:meta_key><wp:meta_value><![CDATA[Konsultasi Hukum, Izin & Pertanahan di Medan | Autentik Analitika]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[rank_math_description]]></wp:meta_key><wp:meta_value><![CDATA[Jadwalkan konsultasi dengan tim hukum kami di Medan. Lingkup pekerjaan, waktu, dan biaya jasa disampaikan secara tertulis sebelum pekerjaan dimulai.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[rank_math_description]]></wp:meta_key><wp:meta_value><![CDATA[Jadwalkan konsultasi dengan tim hukum kami di Medan. Lingkup pekerjaan, waktu, dan biaya jasa disepakati sebelum pekerjaan dimulai.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key><wp:meta_value><![CDATA[page-templates/landing.php]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[rank_math_robots]]></wp:meta_key><wp:meta_value><![CDATA[a:2:{i:0;s:7:"noindex";i:1;s:6:"follow";}]]></wp:meta_value></wp:postmeta>
+</item>
+<item>
+<title><![CDATA[Terima Kasih]]></title>
+<link>http://autentik.local/terima-kasih/</link>
+<pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
+<dc:creator><![CDATA[admin]]></dc:creator>
+<guid isPermaLink="false">http://autentik.local/?p=110</guid>
+<description></description>
+<content:encoded><![CDATA[<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Permintaan konsultasi Anda telah kami terima</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kami akan menghubungi Anda melalui WhatsApp atau telepon paling lambat satu hari kerja. Pesan yang masuk di luar jam kerja kami telaah pada jam kerja berikutnya.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+<wp:post_id>110</wp:post_id>
+<wp:post_date><![CDATA[2026-09-01 10:50:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-09-01 03:50:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-09-01 10:50:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-09-01 03:50:00]]></wp:post_modified_gmt>
+<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+<wp:post_name><![CDATA[terima-kasih]]></wp:post_name>
+<wp:status><![CDATA[publish]]></wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>9</wp:menu_order>
+<wp:post_type><![CDATA[page]]></wp:post_type>
+<wp:post_password><![CDATA[]]></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+<wp:postmeta><wp:meta_key><![CDATA[rank_math_title]]></wp:meta_key><wp:meta_value><![CDATA[Permintaan konsultasi terkirim | Autentik Analitika]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[rank_math_description]]></wp:meta_key><wp:meta_value><![CDATA[Permintaan konsultasi Anda telah kami terima.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[rank_math_robots]]></wp:meta_key><wp:meta_value><![CDATA[a:2:{i:0;s:7:"noindex";i:1;s:6:"follow";}]]></wp:meta_value></wp:postmeta>
 </item>
 <item>
@@ -597,7 +630,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Melalui formulir konsultasi, kami mengumpulkan nama, nomor WhatsApp, email (tidak wajib), bidang layanan, dan uraian persoalan yang Anda tuliskan. Uraian persoalan dapat memuat data pribadi pihak lain atau data pribadi yang bersifat spesifik, seperti data keuangan pribadi, data anak, atau catatan kejahatan. Oleh karena itu, mohon tuliskan seperlunya.</p>
+<p>Melalui formulir konsultasi, kami mengumpulkan nama, nomor WhatsApp, email (tidak wajib), bidang layanan, cara dan waktu konsultasi yang Anda pilih, nama pihak lain yang terlibat (untuk memeriksa benturan kepentingan), uraian persoalan, serta halaman asal dan waktu pengiriman. Untuk mencegah penyalahgunaan formulir, alamat IP Anda diproses sementara, paling lama satu jam, sebagai pembatas jumlah kiriman, dan dapat tercatat dalam log server penyedia hosting.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Uraian persoalan dapat memuat data pribadi pihak lain atau data pribadi yang bersifat spesifik, seperti data kesehatan, data keuangan pribadi, data anak, atau catatan kejahatan. Oleh karena itu, mohon tuliskan seperlunya. Apabila Anda menghubungi kami lewat WhatsApp, telepon, atau email, kami menerima data yang Anda sampaikan melalui saluran tersebut.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -606,9 +643,11 @@
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>Menanggapi permintaan konsultasi dan menyiapkan penawaran, berdasarkan persetujuan Anda.</li>
+<li>Menanggapi permintaan konsultasi dan menyiapkan penawaran atas permintaan Anda sebelum perjanjian jasa hukum dibuat (Pasal 20 ayat (2) huruf b UU PDP), serta berdasarkan persetujuan yang Anda berikan di formulir.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li>Memeriksa benturan kepentingan sebelum menerima perkara, berdasarkan kewajiban hukum dan kode etik profesi advokat.</li>
+<li>Memeriksa benturan kepentingan sebelum menerima perkara, termasuk atas nama pihak lain yang Anda sebutkan, berdasarkan kepentingan yang sah untuk memenuhi kewajiban profesi (Pasal 20 ayat (2) huruf f UU PDP).</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Mencegah penyalahgunaan formulir, misalnya kiriman berulang atau otomatis, berdasarkan kepentingan yang sah (Pasal 20 ayat (2) huruf f UU PDP).</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
 <li>Melaksanakan perjanjian jasa hukum apabila Anda menjadi klien kami.</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
@@ -621,7 +660,21 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Kami tidak menjual data Anda dan tidak memberikannya kepada pihak lain untuk keperluan pemasaran. Data diproses oleh penyedia layanan yang mendukung situs dan komunikasi kami, yaitu penyedia hosting, penyedia email, dan WhatsApp (Meta) apabila Anda menghubungi kami melalui WhatsApp. Sebagian penyedia tersebut dapat menyimpan data di luar wilayah Indonesia; oleh karena itu, kami memilih penyedia yang memiliki tingkat pelindungan data sebagaimana disyaratkan UU PDP. Notaris, PPAT, atau pihak lain hanya menerima data Anda apabila diperlukan untuk pekerjaan yang telah Anda setujui.</p>
+<p>Kami tidak menjual data Anda dan tidak memberikannya kepada pihak lain untuk keperluan pemasaran. Data diproses oleh penyedia layanan yang mendukung situs dan komunikasi kami, yaitu:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>penyedia hosting situs, yang menyimpan situs beserta isian formulir dan log server;</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>penyedia email kantor (Google, melalui layanan Gmail), yang menerima pemberitahuan formulir berisi nama, nomor WhatsApp, bidang layanan, dan nama pihak lain, tanpa uraian persoalan;</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>WhatsApp (Meta), apabila Anda menghubungi kami atau kami menghubungi Anda melalui WhatsApp.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Sebagian penyedia tersebut, termasuk Google dan Meta, memproses data di luar wilayah Indonesia. Transfer tersebut kami lakukan dengan perlindungan kontraktual yang disediakan penyedia, sebagaimana dimungkinkan Pasal 56 UU PDP. Notaris, PPAT, atau pihak lain hanya menerima data Anda apabila diperlukan untuk pekerjaan yang telah Anda setujui.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -629,7 +682,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Pesan yang tidak berlanjut menjadi hubungan jasa hukum kami hapus paling lambat 12 bulan setelah pesan terakhir diterima. Data klien kami simpan selama hubungan jasa hukum berlangsung dan setelahnya selama diwajibkan oleh peraturan perundang-undangan.</p>
+<p>Pesan yang tidak berlanjut menjadi hubungan jasa hukum kami hapus paling lambat 12 bulan setelah pesan terakhir diterima. Ketentuan ini juga berlaku untuk salinan pesan di email dan WhatsApp kantor. Data klien kami simpan selama hubungan jasa hukum berlangsung dan setelahnya selama diwajibkan oleh peraturan perundang-undangan.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -637,7 +690,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Akses terhadap data Anda dibatasi hanya bagi anggota tim yang menangani permintaan Anda. Apabila terjadi kegagalan pelindungan data pribadi, kami akan memberitahukannya kepada Anda dan lembaga yang berwenang dalam tenggat yang ditetapkan UU PDP.</p>
+<p>Akses terhadap data Anda dibatasi hanya bagi anggota tim yang menangani permintaan Anda. Apabila terjadi kegagalan pelindungan data pribadi, kami akan memberitahukannya kepada Anda dan lembaga penyelenggara pelindungan data pribadi secara tertulis paling lambat 3 × 24 jam setelah kegagalan tersebut diketahui (Pasal 46 UU PDP).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -669,7 +722,7 @@
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Permintaan dapat Anda kirimkan ke autentikanalitika@gmail.com. Kami akan menanggapinya dalam tenggat yang ditetapkan UU PDP. Penghapusan data dapat dibatasi apabila data tersebut wajib kami simpan berdasarkan peraturan perundang-undangan.</p>
+<p>Permintaan dapat Anda kirimkan melalui email autentikanalitika@gmail.com atau melalui WhatsApp ke nomor 0817 2321 111. Sebutkan nama dan nomor WhatsApp yang Anda gunakan saat menghubungi kami agar data Anda dapat kami temukan, walaupun Anda tidak mengisi email. Kami akan menanggapinya paling lambat 3 × 24 jam sejak permintaan diterima, sesuai tenggat UU PDP untuk sebagian besar hak subjek data. Penghapusan data dapat dibatasi apabila data tersebut wajib kami simpan berdasarkan peraturan perundang-undangan.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -701,10 +754,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 <excerpt:encoded><![CDATA[]]></excerpt:encoded>
 <wp:post_id>108</wp:post_id>
-<wp:post_date><![CDATA[2026-09-01 10:48:00]]></wp:post_date>
-<wp:post_date_gmt><![CDATA[2026-09-01 03:48:00]]></wp:post_date_gmt>
-<wp:post_modified><![CDATA[2026-09-01 10:48:00]]></wp:post_modified>
-<wp:post_modified_gmt><![CDATA[2026-09-01 03:48:00]]></wp:post_modified_gmt>
+<wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
+<wp:post_date_gmt><![CDATA[2026-09-29 02:00:00]]></wp:post_date_gmt>
+<wp:post_modified><![CDATA[2026-09-29 09:00:00]]></wp:post_modified>
+<wp:post_modified_gmt><![CDATA[2026-09-29 02:00:00]]></wp:post_modified_gmt>
 <wp:comment_status><![CDATA[closed]]></wp:comment_status>
 <wp:ping_status><![CDATA[closed]]></wp:ping_status>
 <wp:post_name><![CDATA[kebijakan-privasi]]></wp:post_name>
@@ -725,11 +778,11 @@
 <guid isPermaLink="false">http://autentik.local/?p=201</guid>
 <description></description>
 <content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><strong>Law Firm Autentik Analitika di Medan, Sumatera Utara, memberikan jasa konsultasi hukum, pendapat hukum, penyusunan dan telaah kontrak, pendampingan negosiasi bisnis, mediasi, dan arbitrase, serta penyelesaian sengketa melalui pengadilan (litigasi) maupun di luar pengadilan (nonlitigasi) bagi perusahaan dan perorangan. Kami terlebih dahulu mempelajari dokumen dan menilai kedudukan hukum Anda, kemudian menyusun langkah yang realistis beserta perkiraan waktu dan biayanya.</strong></p>
+<p><strong>Law Firm Autentik Analitika di Medan, Sumatera Utara, memberikan jasa konsultasi hukum, pendapat hukum, penyusunan dan telaah kontrak, pendampingan negosiasi bisnis, mediasi, dan arbitrase, serta penyelesaian sengketa melalui pengadilan (litigasi) maupun di luar pengadilan (nonlitigasi) bagi perusahaan dan perorangan. Dokumen Anda kami pelajari dan kedudukan hukum Anda kami nilai lebih dulu; setelah itu barulah kami susun langkah yang realistis beserta perkiraan waktu dan biayanya.</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Tidak sedikit sengketa bermula dari kontrak yang ditandatangani tanpa ditelaah dengan cermat, atau dari somasi yang terlambat ditanggapi. Oleh karena itu, kami menelaah klausul yang berpotensi merugikan sebelum kontrak ditandatangani dan mengusulkan perbaikannya, serta menyiapkan tanggapan atas setiap surat yang Anda terima dengan dasar hukum yang jelas. Keputusan tetap berada di tangan Anda; kami menguraikan pilihan yang tersedia beserta akibat hukumnya.</p>
+<p>Tidak sedikit sengketa bermula dari kontrak yang ditandatangani tanpa ditelaah dengan cermat, atau dari somasi yang terlambat ditanggapi. Karena itu, klausul yang berpotensi merugikan kami tandai sebelum kontrak ditandatangani, lengkap dengan usulan perbaikannya, dan setiap surat yang Anda terima kami jawab dengan dasar hukum yang jelas. Keputusan tetap di tangan Anda; tugas kami menguraikan pilihan yang ada beserta akibat hukumnya.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -740,7 +793,7 @@
 <ul class="wp-block-list"><!-- wp:list-item -->
 <li>Konsultasi hukum bagi perusahaan dan perorangan</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li>Penyusunan pendapat hukum tertulis</li>
+<li>Penyusunan pendapat hukum (legal opinion)</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
 <li>Penyusunan dan telaah kontrak serta perjanjian</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
@@ -766,13 +819,13 @@
 <!-- /wp:list-item --><!-- wp:list-item -->
 <li>Kontrak atau perjanjian yang berkaitan dengan persoalan</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li>Surat-menyurat yang berkaitan, seperti somasi, email, atau percakapan tertulis</li>
+<li>Surat-menyurat yang berkaitan, seperti somasi, email, atau percakapan melalui pesan singkat</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
 <li>Bukti pembayaran dan transaksi</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
 <li>Surat panggilan sidang (relaas) atau salinan putusan, bila perkara sudah berjalan</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li>Kronologi singkat secara tertulis (tidak perlu formal)</li>
+<li>Catatan kronologi singkat (tidak perlu formal)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -781,7 +834,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Konsultasi awal</strong></td><td>Satu kali pertemuan, sekitar 60–90 menit</td></tr><tr><td><strong>Pendapat hukum tertulis</strong></td><td>Umumnya 5–10 hari kerja</td></tr><tr><td><strong>Telaah kontrak</strong></td><td>Umumnya 3–7 hari kerja, bergantung pada jumlah dan kerumitan dokumen</td></tr><tr><td><strong>Mediasi di pengadilan</strong></td><td>Paling lama 30 hari sejak penetapan perintah melakukan mediasi dan dapat diperpanjang paling lama 30 hari atas kesepakatan para pihak (Perma No. 1 Tahun 2016)</td></tr><tr><td><strong>Gugatan perdata tingkat pertama</strong></td><td>Menurut SEMA No. 2 Tahun 2014, perkara tingkat pertama diselesaikan paling lama 5 bulan; belum termasuk banding, kasasi, dan eksekusi</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Konsultasi awal</strong></td><td>Satu kali pertemuan, sekitar 60–90 menit</td></tr><tr><td><strong>Pendapat hukum (legal opinion)</strong></td><td>Umumnya 5–10 hari kerja</td></tr><tr><td><strong>Telaah kontrak</strong></td><td>Umumnya 3–7 hari kerja, bergantung pada jumlah dan kerumitan dokumen</td></tr><tr><td><strong>Mediasi di pengadilan</strong></td><td>Paling lama 30 hari sejak penetapan perintah melakukan mediasi dan dapat diperpanjang paling lama 30 hari atas kesepakatan para pihak (Perma No. 1 Tahun 2016)</td></tr><tr><td><strong>Gugatan perdata tingkat pertama</strong></td><td>Menurut SEMA No. 2 Tahun 2014, perkara tingkat pertama diselesaikan paling lama 5 bulan; belum termasuk banding, kasasi, dan eksekusi</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:heading -->
@@ -811,7 +864,7 @@
 <p>Ya. Kami mendampingi perusahaan maupun perorangan, termasuk dalam sengketa utang piutang, perselisihan mengenai perjanjian, dan perkara perdata lainnya.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->]]></content:encoded>
-<excerpt:encoded><![CDATA[Penyusunan dan telaah kontrak, penanganan somasi, serta pendampingan negosiasi, mediasi, arbitrase, dan gugatan perdata bagi perusahaan maupun perorangan, dengan penilaian kedudukan hukum sebelum langkah ditentukan.]]></excerpt:encoded>
+<excerpt:encoded><![CDATA[Kami menyusun dan menelaah kontrak, menjawab somasi, serta mendampingi negosiasi, mediasi, arbitrase, hingga gugatan perdata. Kedudukan hukum Anda kami nilai lebih dulu sebelum langkah dipilih.]]></excerpt:encoded>
 <wp:post_id>201</wp:post_id>
 <wp:post_date><![CDATA[2026-09-01 12:21:00]]></wp:post_date>
 <wp:post_date_gmt><![CDATA[2026-09-01 05:21:00]]></wp:post_date_gmt>
@@ -828,13 +881,13 @@
 <wp:is_sticky>0</wp:is_sticky>
 <wp:postmeta><wp:meta_key><![CDATA[judul_en]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_en]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_en]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[scale-balanced]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[scale]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_ikon]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_ikon]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Penyusunan dan telaah kontrak, penanganan somasi, serta pendampingan negosiasi, mediasi, arbitrase, dan gugatan perdata bagi perusahaan maupun perorangan, dengan penilaian kedudukan hukum sebelum langkah ditentukan.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Kami menyusun dan menelaah kontrak, menjawab somasi, serta mendampingi negosiasi, mediasi, arbitrase, hingga gugatan perdata. Kedudukan hukum Anda kami nilai lebih dulu sebelum langkah dipilih.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dek]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dek]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[Law Firm Autentik Analitika di Medan, Sumatera Utara, memberikan jasa konsultasi hukum, pendapat hukum, penyusunan dan telaah kontrak, pendampingan negosiasi bisnis, mediasi, dan arbitrase, serta penyelesaian sengketa melalui pengadilan (litigasi) maupun di luar pengadilan (nonlitigasi) bagi perusahaan dan perorangan. Kami terlebih dahulu mempelajari dokumen dan menilai kedudukan hukum Anda, kemudian menyusun langkah yang realistis beserta perkiraan waktu dan biayanya.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[Law Firm Autentik Analitika di Medan, Sumatera Utara, memberikan jasa konsultasi hukum, pendapat hukum, penyusunan dan telaah kontrak, pendampingan negosiasi bisnis, mediasi, dan arbitrase, serta penyelesaian sengketa melalui pengadilan (litigasi) maupun di luar pengadilan (nonlitigasi) bagi perusahaan dan perorangan. Dokumen Anda kami pelajari dan kedudukan hukum Anda kami nilai lebih dulu; setelah itu barulah kami susun langkah yang realistis beserta perkiraan waktu dan biayanya.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_jawaban]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Tidak sedikit sengketa bermula dari kontrak yang ditandatangani tanpa ditelaah dengan cermat, atau dari somasi yang terlambat ditanggapi. Oleh karena itu, kami menelaah klausul yang berpotensi merugikan sebelum kontrak ditandatangani dan mengusulkan perbaikannya, serta menyiapkan tanggapan atas setiap surat yang Anda terima dengan dasar hukum yang jelas. Keputusan tetap berada di tangan Anda; kami menguraikan pilihan yang tersedia beserta akibat hukumnya.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Tidak sedikit sengketa bermula dari kontrak yang ditandatangani tanpa ditelaah dengan cermat, atau dari somasi yang terlambat ditanggapi. Karena itu, klausul yang berpotensi merugikan kami tandai sebelum kontrak ditandatangani, lengkap dengan usulan perbaikannya, dan setiap surat yang Anda terima kami jawab dengan dasar hukum yang jelas. Keputusan tetap di tangan Anda; tugas kami menguraikan pilihan yang ada beserta akibat hukumnya.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_paragraf]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_paragraf]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[Lingkup pekerjaan]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_lingkup]]></wp:meta_value></wp:postmeta>
@@ -844,7 +897,7 @@
 <wp:postmeta><wp:meta_key><![CDATA[_lingkup_0_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_lingkup_teks]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[lingkup_0_teks_en]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_lingkup_0_teks_en]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_lingkup_en]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[lingkup_1_teks]]></wp:meta_key><wp:meta_value><![CDATA[Penyusunan pendapat hukum tertulis]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[lingkup_1_teks]]></wp:meta_key><wp:meta_value><![CDATA[Penyusunan pendapat hukum (legal opinion)]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_lingkup_1_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_lingkup_teks]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[lingkup_1_teks_en]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_lingkup_1_teks_en]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_lingkup_en]]></wp:meta_value></wp:postmeta>
@@ -878,13 +931,13 @@
 <wp:postmeta><wp:meta_key><![CDATA[_dokumen_0_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dokumen_teks]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[dokumen_1_teks]]></wp:meta_key><wp:meta_value><![CDATA[Kontrak atau perjanjian yang berkaitan dengan persoalan]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dokumen_1_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dokumen_teks]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[dokumen_2_teks]]></wp:meta_key><wp:meta_value><![CDATA[Surat-menyurat yang berkaitan, seperti somasi, email, atau percakapan tertulis]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[dokumen_2_teks]]></wp:meta_key><wp:meta_value><![CDATA[Surat-menyurat yang berkaitan, seperti somasi, email, atau percakapan melalui pesan singkat]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dokumen_2_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dokumen_teks]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[dokumen_3_teks]]></wp:meta_key><wp:meta_value><![CDATA[Bukti pembayaran dan transaksi]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dokumen_3_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dokumen_teks]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[dokumen_4_teks]]></wp:meta_key><wp:meta_value><![CDATA[Surat panggilan sidang (relaas) atau salinan putusan, bila perkara sudah berjalan]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dokumen_4_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dokumen_teks]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[dokumen_5_teks]]></wp:meta_key><wp:meta_value><![CDATA[Kronologi singkat secara tertulis (tidak perlu formal)]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[dokumen_5_teks]]></wp:meta_key><wp:meta_value><![CDATA[Catatan kronologi singkat (tidak perlu formal)]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dokumen_5_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dokumen_teks]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[waktu]]></wp:meta_key><wp:meta_value><![CDATA[5]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_waktu]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu]]></wp:meta_value></wp:postmeta>
@@ -892,7 +945,7 @@
 <wp:postmeta><wp:meta_key><![CDATA[_waktu_0_tahap]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu_tahap]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[waktu_0_durasi]]></wp:meta_key><wp:meta_value><![CDATA[Satu kali pertemuan, sekitar 60–90 menit]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_waktu_0_durasi]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu_durasi]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[waktu_1_tahap]]></wp:meta_key><wp:meta_value><![CDATA[Pendapat hukum tertulis]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[waktu_1_tahap]]></wp:meta_key><wp:meta_value><![CDATA[Pendapat hukum (legal opinion)]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_waktu_1_tahap]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu_tahap]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[waktu_1_durasi]]></wp:meta_key><wp:meta_value><![CDATA[Umumnya 5–10 hari kerja]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_waktu_1_durasi]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu_durasi]]></wp:meta_value></wp:postmeta>
@@ -927,7 +980,7 @@
 <wp:postmeta><wp:meta_key><![CDATA[faq_3_jawab]]></wp:meta_key><wp:meta_value><![CDATA[Ya. Kami mendampingi perusahaan maupun perorangan, termasuk dalam sengketa utang piutang, perselisihan mengenai perjanjian, dan perkara perdata lainnya.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_faq_3_jawab]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_jawab]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[rank_math_title]]></wp:meta_key><wp:meta_value><![CDATA[Kontrak, Somasi & Sengketa Bisnis di Medan | Autentik Analitika]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[rank_math_description]]></wp:meta_key><wp:meta_value><![CDATA[Telaah kontrak, somasi, mediasi, dan gugatan perdata di Medan bagi perusahaan dan perorangan. Biaya jasa disampaikan secara tertulis sejak awal.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[rank_math_description]]></wp:meta_key><wp:meta_value><![CDATA[Telaah kontrak, somasi, mediasi, dan gugatan perdata di Medan bagi perusahaan dan perorangan. Biaya jasa disepakati sejak awal.]]></wp:meta_value></wp:postmeta>
 </item>
 <item>
 <title><![CDATA[Perizinan Berusaha]]></title>
@@ -937,11 +990,11 @@
 <guid isPermaLink="false">http://autentik.local/?p=202</guid>
 <description></description>
 <content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><strong>Autentik Analitika mendampingi pengurusan perizinan berusaha di Medan dan Sumatera Utara melalui sistem OSS (Online Single Submission), mulai dari penerbitan Nomor Induk Berusaha (NIB), Sertifikat Standar, dan izin operasional hingga perizinan penanaman modal dan perizinan sektoral. Kami terlebih dahulu memeriksa kesesuaian KBLI (Klasifikasi Baku Lapangan Usaha Indonesia), dokumen pendukung, dan tingkat risiko usaha, kemudian mendampingi permohonan hingga terbit keputusan dari sistem OSS atau instansi yang berwenang.</strong></p>
+<p><strong>Autentik Analitika mendampingi pengurusan perizinan berusaha di Medan dan Sumatera Utara melalui sistem OSS (Online Single Submission), mulai dari penerbitan Nomor Induk Berusaha (NIB), Sertifikat Standar, dan izin operasional hingga perizinan penanaman modal dan perizinan sektoral. Kesesuaian KBLI (Klasifikasi Baku Lapangan Usaha Indonesia), dokumen pendukung, dan tingkat risiko usaha kami periksa lebih dulu; setelah itu permohonan Anda kami kawal sampai keputusan terbit dari sistem OSS atau instansi yang berwenang.</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Perizinan dengan kode KBLI yang keliru dapat menimbulkan kesulitan di kemudian hari, misalnya pada saat mengikuti tender, mengajukan kredit, atau menjalani pemeriksaan oleh instansi. Oleh karena itu, kami menyelaraskan KBLI dengan kegiatan usaha yang sebenarnya Anda jalankan serta dengan maksud dan tujuan dalam anggaran dasar perusahaan. Setelah izin terbit, kami menyerahkan daftar kewajiban lanjutan beserta tenggat pemenuhannya.</p>
+<p>Izin dengan kode KBLI yang keliru biasanya baru terasa masalahnya belakangan: saat ikut tender, mengajukan kredit ke bank, atau diperiksa instansi. Karena itu kami selaraskan KBLI dengan kegiatan usaha yang sebenarnya Anda jalankan serta dengan maksud dan tujuan dalam anggaran dasar perusahaan. Setelah izin terbit, kami menyerahkan daftar kewajiban lanjutan beserta tenggat pemenuhannya.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -1019,7 +1072,7 @@
 <p>Ada. Pelaku usaha, kecuali usaha mikro, wajib menyampaikan Laporan Kegiatan Penanaman Modal (LKPM) secara berkala sesuai dengan skala usahanya. Setelah izin terbit, kami menyerahkan daftar kewajiban lanjutan beserta jadwal pemenuhannya.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->]]></content:encoded>
-<excerpt:encoded><![CDATA[Penelaahan kesesuaian KBLI dan persyaratan perizinan sebelum permohonan diajukan melalui OSS, serta pendampingan penerbitan NIB, Sertifikat Standar, dan izin sektoral hingga terbit keputusan instansi yang berwenang.]]></excerpt:encoded>
+<excerpt:encoded><![CDATA[Kami periksa kecocokan KBLI dan syarat izin sebelum permohonan masuk ke OSS, lalu mengawal penerbitan NIB, Sertifikat Standar, dan izin sektoral sampai keputusan instansi terbit.]]></excerpt:encoded>
 <wp:post_id>202</wp:post_id>
 <wp:post_date><![CDATA[2026-09-01 12:22:00]]></wp:post_date>
 <wp:post_date_gmt><![CDATA[2026-09-01 05:22:00]]></wp:post_date_gmt>
@@ -1036,13 +1089,13 @@
 <wp:is_sticky>0</wp:is_sticky>
 <wp:postmeta><wp:meta_key><![CDATA[judul_en]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_en]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_en]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[file-badge]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[badge]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_ikon]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_ikon]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Penelaahan kesesuaian KBLI dan persyaratan perizinan sebelum permohonan diajukan melalui OSS, serta pendampingan penerbitan NIB, Sertifikat Standar, dan izin sektoral hingga terbit keputusan instansi yang berwenang.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Kami periksa kecocokan KBLI dan syarat izin sebelum permohonan masuk ke OSS, lalu mengawal penerbitan NIB, Sertifikat Standar, dan izin sektoral sampai keputusan instansi terbit.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dek]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dek]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[Autentik Analitika mendampingi pengurusan perizinan berusaha di Medan dan Sumatera Utara melalui sistem OSS (Online Single Submission), mulai dari penerbitan Nomor Induk Berusaha (NIB), Sertifikat Standar, dan izin operasional hingga perizinan penanaman modal dan perizinan sektoral. Kami terlebih dahulu memeriksa kesesuaian KBLI (Klasifikasi Baku Lapangan Usaha Indonesia), dokumen pendukung, dan tingkat risiko usaha, kemudian mendampingi permohonan hingga terbit keputusan dari sistem OSS atau instansi yang berwenang.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[Autentik Analitika mendampingi pengurusan perizinan berusaha di Medan dan Sumatera Utara melalui sistem OSS (Online Single Submission), mulai dari penerbitan Nomor Induk Berusaha (NIB), Sertifikat Standar, dan izin operasional hingga perizinan penanaman modal dan perizinan sektoral. Kesesuaian KBLI (Klasifikasi Baku Lapangan Usaha Indonesia), dokumen pendukung, dan tingkat risiko usaha kami periksa lebih dulu; setelah itu permohonan Anda kami kawal sampai keputusan terbit dari sistem OSS atau instansi yang berwenang.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_jawaban]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Perizinan dengan kode KBLI yang keliru dapat menimbulkan kesulitan di kemudian hari, misalnya pada saat mengikuti tender, mengajukan kredit, atau menjalani pemeriksaan oleh instansi. Oleh karena itu, kami menyelaraskan KBLI dengan kegiatan usaha yang sebenarnya Anda jalankan serta dengan maksud dan tujuan dalam anggaran dasar perusahaan. Setelah izin terbit, kami menyerahkan daftar kewajiban lanjutan beserta tenggat pemenuhannya.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Izin dengan kode KBLI yang keliru biasanya baru terasa masalahnya belakangan: saat ikut tender, mengajukan kredit ke bank, atau diperiksa instansi. Karena itu kami selaraskan KBLI dengan kegiatan usaha yang sebenarnya Anda jalankan serta dengan maksud dan tujuan dalam anggaran dasar perusahaan. Setelah izin terbit, kami menyerahkan daftar kewajiban lanjutan beserta tenggat pemenuhannya.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_paragraf]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_paragraf]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[Lingkup pekerjaan]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_lingkup]]></wp:meta_value></wp:postmeta>
@@ -1137,7 +1190,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Pendirian badan usaha kerap terhambat oleh hal yang tampak sederhana, misalnya nama yang sudah digunakan pihak lain, komposisi saham yang belum disepakati, atau maksud dan tujuan yang tidak sejalan dengan perizinan yang kelak diperlukan. Kami menyelesaikan hal-hal tersebut sebelum akta dibuat, bukan sesudahnya. Setelah akta ditandatangani di hadapan notaris, Anda menerima salinan akta, SK pengesahan badan hukum atau surat keterangan terdaftar, beserta salinan digitalnya dalam satu berkas.</p>
+<p>Pendirian badan usaha kerap terhambat oleh hal yang tampak sederhana, misalnya nama yang sudah digunakan pihak lain, komposisi saham yang belum disepakati, atau maksud dan tujuan yang tidak sejalan dengan perizinan yang kelak diperlukan. Hal-hal itu kami bereskan sebelum akta dibuat, bukan sesudahnya. Setelah akta ditandatangani di hadapan notaris, Anda menerima salinan akta, SK pengesahan badan hukum atau surat keterangan terdaftar, beserta salinan digitalnya dalam satu berkas.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -1215,7 +1268,7 @@
 <p>Sebaiknya seluruh pendiri hadir di hadapan notaris. Pendiri yang berhalangan dapat diwakili oleh penerima kuasa berdasarkan surat kuasa yang memenuhi syarat.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->]]></content:encoded>
-<excerpt:encoded><![CDATA[Penyiapan nama badan usaha, struktur permodalan dan kepemilikan saham, serta KBLI untuk pendirian dan perubahan PT, CV, firma, dan yayasan; aktanya dibuat di hadapan notaris yang berwenang.]]></excerpt:encoded>
+<excerpt:encoded><![CDATA[Kami siapkan nama, susunan modal dan saham, serta KBLI untuk pendirian dan perubahan PT, CV, firma, dan yayasan. Aktanya dibuat di hadapan notaris yang berwenang.]]></excerpt:encoded>
 <wp:post_id>203</wp:post_id>
 <wp:post_date><![CDATA[2026-09-01 12:23:00]]></wp:post_date>
 <wp:post_date_gmt><![CDATA[2026-09-01 05:23:00]]></wp:post_date_gmt>
@@ -1232,13 +1285,13 @@
 <wp:is_sticky>0</wp:is_sticky>
 <wp:postmeta><wp:meta_key><![CDATA[judul_en]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_en]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_en]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[file-signature]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[pen]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_ikon]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_ikon]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Penyiapan nama badan usaha, struktur permodalan dan kepemilikan saham, serta KBLI untuk pendirian dan perubahan PT, CV, firma, dan yayasan; aktanya dibuat di hadapan notaris yang berwenang.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Kami siapkan nama, susunan modal dan saham, serta KBLI untuk pendirian dan perubahan PT, CV, firma, dan yayasan. Aktanya dibuat di hadapan notaris yang berwenang.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dek]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dek]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[Autentik Analitika mendampingi pendirian dan perubahan badan usaha di Medan, yaitu perseroan terbatas (PT), persekutuan komanditer (CV), firma, dan yayasan, termasuk perubahan anggaran dasar. Kami memeriksa ketersediaan nama, susunan pemegang saham, dan KBLI, menyusun rancangan dokumen, lalu berkoordinasi dengan notaris yang berwenang. Akta dibuat oleh notaris dan ditandatangani di hadapannya, sedangkan akta jual beli tanah dibuat oleh PPAT yang daerah kerjanya meliputi letak tanah.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_jawaban]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Pendirian badan usaha kerap terhambat oleh hal yang tampak sederhana, misalnya nama yang sudah digunakan pihak lain, komposisi saham yang belum disepakati, atau maksud dan tujuan yang tidak sejalan dengan perizinan yang kelak diperlukan. Kami menyelesaikan hal-hal tersebut sebelum akta dibuat, bukan sesudahnya. Setelah akta ditandatangani di hadapan notaris, Anda menerima salinan akta, SK pengesahan badan hukum atau surat keterangan terdaftar, beserta salinan digitalnya dalam satu berkas.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Pendirian badan usaha kerap terhambat oleh hal yang tampak sederhana, misalnya nama yang sudah digunakan pihak lain, komposisi saham yang belum disepakati, atau maksud dan tujuan yang tidak sejalan dengan perizinan yang kelak diperlukan. Hal-hal itu kami bereskan sebelum akta dibuat, bukan sesudahnya. Setelah akta ditandatangani di hadapan notaris, Anda menerima salinan akta, SK pengesahan badan hukum atau surat keterangan terdaftar, beserta salinan digitalnya dalam satu berkas.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_paragraf]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_paragraf]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[Lingkup pekerjaan]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_lingkup]]></wp:meta_value></wp:postmeta>
@@ -1333,7 +1386,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Biaya pemeriksaan sebelum transaksi jauh lebih kecil dibandingkan biaya berperkara setelah timbul sengketa. Oleh karena itu, kami menelusuri riwayat kepemilikan, memastikan luas dan batas tanah sesuai dengan peta bidang, serta memeriksa apakah tanah sedang dijaminkan atau disengketakan, kemudian mendampingi Anda hingga proses pendaftaran di kantor pertanahan selesai. Kami juga menangani persoalan pertanahan yang khas di Medan dan Deli Serdang, seperti alas hak lama berupa grant sultan dan SK Camat, sertifikat ganda, tanah eks HGU, serta tanah warisan yang belum dibagi.</p>
+<p>Memeriksa sebelum membayar jauh lebih murah daripada berperkara sesudahnya. Karena itu kami menelusuri riwayat kepemilikan, memastikan luas dan batas tanah sesuai dengan peta bidang, serta memeriksa apakah tanah sedang dijaminkan atau disengketakan, kemudian mendampingi Anda hingga proses pendaftaran di kantor pertanahan selesai. Kami juga menangani persoalan pertanahan yang khas di Medan dan Deli Serdang, seperti alas hak lama berupa grant sultan dan SK Camat, sertifikat ganda, tanah eks HGU, serta tanah warisan yang belum dibagi.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -1374,7 +1427,7 @@
 <!-- /wp:list-item --><!-- wp:list-item -->
 <li>KTP dan kartu keluarga para pihak, serta buku nikah atau akta perkawinan apabila tanah termasuk harta bersama</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
-<li>SPPT PBB (Surat Pemberitahuan Pajak Terutang Pajak Bumi dan Bangunan) tahun berjalan beserta bukti pelunasannya</li>
+<li>SPPT PBB-P2 (Pajak Bumi dan Bangunan Perdesaan dan Perkotaan) tahun berjalan beserta bukti pelunasannya</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
 <li>NPWP penjual dan pembeli</li>
 <!-- /wp:list-item --><!-- wp:list-item -->
@@ -1391,7 +1444,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Pengecekan sertifikat di kantor pertanahan</strong></td><td>Standar pelayanan BPN 1 hari kerja (Perkaban No. 1 Tahun 2010); saat ini umumnya diajukan secara elektronik oleh PPAT</td></tr><tr><td><strong>Peralihan hak (balik nama) karena jual beli</strong></td><td>Standar pelayanan BPN 5 hari kerja sejak berkas lengkap diterima (Perkaban No. 1 Tahun 2010). Sebelum itu, PPAT wajib menyampaikan akta ke kantor pertanahan paling lambat 7 hari kerja sejak penandatanganan, dan pembayaran BPHTB serta PPh harus sudah divalidasi. Dalam praktik di Medan, keseluruhan proses umumnya memerlukan beberapa minggu. Perkiraan waktu untuk urusan Anda kami sampaikan dalam penawaran.</td></tr><tr><td><strong>Pemecahan atau penggabungan sertifikat</strong></td><td>Standar pelayanan BPN 15 hari kerja, belum termasuk jadwal pengukuran. Dalam praktik, prosesnya dapat lebih lama.</td></tr><tr><td><strong>Penyelesaian sengketa pertanahan</strong></td><td>Bergantung pada jalur yang ditempuh, yaitu mediasi di kantor pertanahan atau gugatan di pengadilan</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Pengecekan sertifikat di kantor pertanahan</strong></td><td>Menurut standar pelayanan Kementerian ATR/BPN, umumnya 1 hari kerja; saat ini pengecekan pada umumnya diajukan secara elektronik oleh PPAT</td></tr><tr><td><strong>Peralihan hak (balik nama) karena jual beli</strong></td><td>Menurut standar pelayanan Kementerian ATR/BPN, umumnya 5 hari kerja sejak berkas lengkap diterima. Sebelum itu, PPAT wajib menyampaikan akta ke kantor pertanahan paling lambat 7 hari kerja sejak penandatanganan, dan pembayaran BPHTB serta PPh harus sudah divalidasi. Dalam praktik di Medan, keseluruhan proses umumnya memerlukan beberapa minggu. Perkiraan waktu untuk urusan Anda kami sampaikan dalam penawaran.</td></tr><tr><td><strong>Pemecahan atau penggabungan sertifikat</strong></td><td>Bergantung pada jadwal pengukuran di kantor pertanahan; perkiraan waktunya kami sampaikan dalam penawaran setelah dokumen diperiksa.</td></tr><tr><td><strong>Penyelesaian sengketa pertanahan</strong></td><td>Bergantung pada jalur yang ditempuh, yaitu mediasi di kantor pertanahan atau gugatan di pengadilan</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:heading -->
@@ -1412,7 +1465,7 @@
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Bagaimana memastikan tanah yang akan dibeli tidak bermasalah?</summary><!-- wp:paragraph -->
-<p>Lakukan pengecekan sertifikat di kantor pertanahan, cocokkan data fisik dengan keadaan di lapangan, periksa ada atau tidaknya catatan blokir, sita, atau hak tanggungan, dan pastikan PBB telah lunas. Seluruh pemeriksaan tersebut sebaiknya dilakukan sebelum Anda membayar tanda jadi atau uang muka.</p>
+<p>Lakukan pengecekan sertifikat di kantor pertanahan, cocokkan data fisik dengan keadaan di lapangan, periksa ada atau tidaknya catatan blokir, sita, atau hak tanggungan, dan pastikan PBB-P2 telah lunas. Seluruh pemeriksaan tersebut sebaiknya dilakukan sebelum Anda membayar tanda jadi atau uang muka.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
@@ -1430,7 +1483,7 @@
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Tanah saya masih berupa grant sultan atau SK Camat. Apakah masih dapat didaftarkan menjadi sertifikat?</summary><!-- wp:paragraph -->
-<p>Alas hak lama, yaitu dokumen yang menjadi bukti asal-usul penguasaan tanah seperti grant sultan, SK Camat, atau surat keterangan tanah, masih dapat digunakan sebagai bahan pendaftaran tanah pertama kali, tetapi kedudukannya telah berubah. PP No. 18 Tahun 2021 memberikan batas waktu lima tahun, yang berakhir pada awal 2026, untuk mendaftarkan alat bukti tertulis tanah bekas milik adat milik perorangan. Setelah batas waktu tersebut, dokumen semacam itu pada umumnya hanya berfungsi sebagai petunjuk, sehingga penguasaan fisik, riwayat perolehan, dan keterangan saksi menjadi lebih menentukan. Apakah dokumen Anda termasuk dalam kategori tersebut perlu diperiksa satu per satu. Oleh karena itu, bawalah dokumen aslinya; kami akan memeriksa riwayatnya, mengecek apakah lokasi tanah telah bersertifikat atas nama pihak lain, lalu menyampaikan langkah yang dapat ditempuh.</p>
+<p>Alas hak lama, yaitu dokumen yang menjadi bukti asal-usul penguasaan tanah seperti grant sultan, SK Camat, atau surat keterangan tanah, masih dapat digunakan sebagai bahan pendaftaran tanah pertama kali, tetapi kedudukannya telah berubah. PP No. 18 Tahun 2021 memberikan batas waktu lima tahun, yang berakhir pada awal 2026, untuk mendaftarkan alat bukti tertulis tanah bekas milik adat milik perorangan. Setelah batas waktu tersebut, alat bukti tertulis tanah bekas milik adat pada umumnya hanya berfungsi sebagai petunjuk, sehingga penguasaan fisik, riwayat perolehan, dan keterangan saksi menjadi lebih menentukan. Pendaftaran tetap dapat ditempuh berdasarkan penguasaan fisik secara terus-menerus dengan itikad baik, yang diperkuat keterangan saksi dan tidak dibantah pihak lain. Apakah dokumen Anda termasuk dalam kategori tersebut perlu diperiksa satu per satu. Oleh karena itu, bawalah dokumen aslinya; kami akan memeriksa riwayatnya, mengecek apakah lokasi tanah telah bersertifikat atas nama pihak lain, lalu menyampaikan langkah yang dapat ditempuh.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
@@ -1451,7 +1504,7 @@
 <p>Perbedaannya terletak pada instansi yang berwenang. Tanah di Kota Medan diurus di Kantor Pertanahan Kota Medan dan pajaknya di Bapenda Kota Medan. Tanah di Kabupaten Deli Serdang diurus di Kantor Pertanahan Kabupaten Deli Serdang dan pajaknya di Bapenda Deli Serdang, sedangkan gugatannya pada umumnya diajukan ke Pengadilan Negeri Lubuk Pakam. Instansi yang berwenang atas tanah Anda kami sampaikan sejak konsultasi pertama.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->]]></content:encoded>
-<excerpt:encoded><![CDATA[Pemeriksaan riwayat dan status sertifikat di kantor pertanahan sebelum transaksi, pendampingan balik nama bersama PPAT, pendaftaran tanah dari alas hak lama, serta penyelesaian sengketa pertanahan di Medan dan Deli Serdang.]]></excerpt:encoded>
+<excerpt:encoded><![CDATA[Sebelum transaksi, riwayat dan status sertifikat kami periksa di kantor pertanahan. Kami juga mendampingi balik nama bersama PPAT, pendaftaran tanah dari alas hak lama, dan sengketa tanah di Medan dan Deli Serdang.]]></excerpt:encoded>
 <wp:post_id>204</wp:post_id>
 <wp:post_date><![CDATA[2026-09-01 12:24:00]]></wp:post_date>
 <wp:post_date_gmt><![CDATA[2026-09-01 05:24:00]]></wp:post_date_gmt>
@@ -1468,13 +1521,13 @@
 <wp:is_sticky>0</wp:is_sticky>
 <wp:postmeta><wp:meta_key><![CDATA[judul_en]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_en]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_en]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[land-plot]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[map]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_ikon]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_ikon]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Pemeriksaan riwayat dan status sertifikat di kantor pertanahan sebelum transaksi, pendampingan balik nama bersama PPAT, pendaftaran tanah dari alas hak lama, serta penyelesaian sengketa pertanahan di Medan dan Deli Serdang.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Sebelum transaksi, riwayat dan status sertifikat kami periksa di kantor pertanahan. Kami juga mendampingi balik nama bersama PPAT, pendaftaran tanah dari alas hak lama, dan sengketa tanah di Medan dan Deli Serdang.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dek]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dek]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[Autentik Analitika menangani urusan pertanahan di Kota Medan, Kabupaten Deli Serdang, dan sekitarnya, meliputi pengecekan dan pengurusan sertifikat tanah, pendampingan peralihan hak (balik nama) bersama PPAT, pemecahan dan penggabungan sertifikat, pendaftaran tanah atas dasar alas hak lama seperti grant sultan atau SK Camat, serta penyelesaian sengketa pertanahan. Setiap pekerjaan diawali dengan pemeriksaan riwayat dan keabsahan sertifikat di kantor pertanahan sebelum transaksi dilanjutkan.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_jawaban]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Biaya pemeriksaan sebelum transaksi jauh lebih kecil dibandingkan biaya berperkara setelah timbul sengketa. Oleh karena itu, kami menelusuri riwayat kepemilikan, memastikan luas dan batas tanah sesuai dengan peta bidang, serta memeriksa apakah tanah sedang dijaminkan atau disengketakan, kemudian mendampingi Anda hingga proses pendaftaran di kantor pertanahan selesai. Kami juga menangani persoalan pertanahan yang khas di Medan dan Deli Serdang, seperti alas hak lama berupa grant sultan dan SK Camat, sertifikat ganda, tanah eks HGU, serta tanah warisan yang belum dibagi.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Memeriksa sebelum membayar jauh lebih murah daripada berperkara sesudahnya. Karena itu kami menelusuri riwayat kepemilikan, memastikan luas dan batas tanah sesuai dengan peta bidang, serta memeriksa apakah tanah sedang dijaminkan atau disengketakan, kemudian mendampingi Anda hingga proses pendaftaran di kantor pertanahan selesai. Kami juga menangani persoalan pertanahan yang khas di Medan dan Deli Serdang, seperti alas hak lama berupa grant sultan dan SK Camat, sertifikat ganda, tanah eks HGU, serta tanah warisan yang belum dibagi.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_paragraf]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_paragraf]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[Lingkup pekerjaan]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_lingkup]]></wp:meta_value></wp:postmeta>
@@ -1526,7 +1579,7 @@
 <wp:postmeta><wp:meta_key><![CDATA[_dokumen_0_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dokumen_teks]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[dokumen_1_teks]]></wp:meta_key><wp:meta_value><![CDATA[KTP dan kartu keluarga para pihak, serta buku nikah atau akta perkawinan apabila tanah termasuk harta bersama]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dokumen_1_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dokumen_teks]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[dokumen_2_teks]]></wp:meta_key><wp:meta_value><![CDATA[SPPT PBB (Surat Pemberitahuan Pajak Terutang Pajak Bumi dan Bangunan) tahun berjalan beserta bukti pelunasannya]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[dokumen_2_teks]]></wp:meta_key><wp:meta_value><![CDATA[SPPT PBB-P2 (Pajak Bumi dan Bangunan Perdesaan dan Perkotaan) tahun berjalan beserta bukti pelunasannya]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dokumen_2_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dokumen_teks]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[dokumen_3_teks]]></wp:meta_key><wp:meta_value><![CDATA[NPWP penjual dan pembeli]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dokumen_3_teks]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dokumen_teks]]></wp:meta_value></wp:postmeta>
@@ -1540,15 +1593,15 @@
 <wp:postmeta><wp:meta_key><![CDATA[_waktu]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[waktu_0_tahap]]></wp:meta_key><wp:meta_value><![CDATA[Pengecekan sertifikat di kantor pertanahan]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_waktu_0_tahap]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu_tahap]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[waktu_0_durasi]]></wp:meta_key><wp:meta_value><![CDATA[Standar pelayanan BPN 1 hari kerja (Perkaban No. 1 Tahun 2010); saat ini umumnya diajukan secara elektronik oleh PPAT]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[waktu_0_durasi]]></wp:meta_key><wp:meta_value><![CDATA[Menurut standar pelayanan Kementerian ATR/BPN, umumnya 1 hari kerja; saat ini pengecekan pada umumnya diajukan secara elektronik oleh PPAT]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_waktu_0_durasi]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu_durasi]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[waktu_1_tahap]]></wp:meta_key><wp:meta_value><![CDATA[Peralihan hak (balik nama) karena jual beli]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_waktu_1_tahap]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu_tahap]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[waktu_1_durasi]]></wp:meta_key><wp:meta_value><![CDATA[Standar pelayanan BPN 5 hari kerja sejak berkas lengkap diterima (Perkaban No. 1 Tahun 2010). Sebelum itu, PPAT wajib menyampaikan akta ke kantor pertanahan paling lambat 7 hari kerja sejak penandatanganan, dan pembayaran BPHTB serta PPh harus sudah divalidasi. Dalam praktik di Medan, keseluruhan proses umumnya memerlukan beberapa minggu. Perkiraan waktu untuk urusan Anda kami sampaikan dalam penawaran.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[waktu_1_durasi]]></wp:meta_key><wp:meta_value><![CDATA[Menurut standar pelayanan Kementerian ATR/BPN, umumnya 5 hari kerja sejak berkas lengkap diterima. Sebelum itu, PPAT wajib menyampaikan akta ke kantor pertanahan paling lambat 7 hari kerja sejak penandatanganan, dan pembayaran BPHTB serta PPh harus sudah divalidasi. Dalam praktik di Medan, keseluruhan proses umumnya memerlukan beberapa minggu. Perkiraan waktu untuk urusan Anda kami sampaikan dalam penawaran.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_waktu_1_durasi]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu_durasi]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[waktu_2_tahap]]></wp:meta_key><wp:meta_value><![CDATA[Pemecahan atau penggabungan sertifikat]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_waktu_2_tahap]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu_tahap]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[waktu_2_durasi]]></wp:meta_key><wp:meta_value><![CDATA[Standar pelayanan BPN 15 hari kerja, belum termasuk jadwal pengukuran. Dalam praktik, prosesnya dapat lebih lama.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[waktu_2_durasi]]></wp:meta_key><wp:meta_value><![CDATA[Bergantung pada jadwal pengukuran di kantor pertanahan; perkiraan waktunya kami sampaikan dalam penawaran setelah dokumen diperiksa.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_waktu_2_durasi]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu_durasi]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[waktu_3_tahap]]></wp:meta_key><wp:meta_value><![CDATA[Penyelesaian sengketa pertanahan]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_waktu_3_tahap]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_waktu_tahap]]></wp:meta_value></wp:postmeta>
@@ -1566,7 +1619,7 @@
 <wp:postmeta><wp:meta_key><![CDATA[_faq_1_jawab]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_jawab]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[faq_2_tanya]]></wp:meta_key><wp:meta_value><![CDATA[Bagaimana memastikan tanah yang akan dibeli tidak bermasalah?]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_faq_2_tanya]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_tanya]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[faq_2_jawab]]></wp:meta_key><wp:meta_value><![CDATA[Lakukan pengecekan sertifikat di kantor pertanahan, cocokkan data fisik dengan keadaan di lapangan, periksa ada atau tidaknya catatan blokir, sita, atau hak tanggungan, dan pastikan PBB telah lunas. Seluruh pemeriksaan tersebut sebaiknya dilakukan sebelum Anda membayar tanda jadi atau uang muka.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[faq_2_jawab]]></wp:meta_key><wp:meta_value><![CDATA[Lakukan pengecekan sertifikat di kantor pertanahan, cocokkan data fisik dengan keadaan di lapangan, periksa ada atau tidaknya catatan blokir, sita, atau hak tanggungan, dan pastikan PBB-P2 telah lunas. Seluruh pemeriksaan tersebut sebaiknya dilakukan sebelum Anda membayar tanda jadi atau uang muka.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_faq_2_jawab]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_jawab]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[faq_3_tanya]]></wp:meta_key><wp:meta_value><![CDATA[Sertifikat masih atas nama pemilik yang telah meninggal dunia. Apakah tanahnya dapat dijual?]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_faq_3_tanya]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_tanya]]></wp:meta_value></wp:postmeta>
@@ -1578,7 +1631,7 @@
 <wp:postmeta><wp:meta_key><![CDATA[_faq_4_jawab]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_jawab]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[faq_5_tanya]]></wp:meta_key><wp:meta_value><![CDATA[Tanah saya masih berupa grant sultan atau SK Camat. Apakah masih dapat didaftarkan menjadi sertifikat?]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_faq_5_tanya]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_tanya]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[faq_5_jawab]]></wp:meta_key><wp:meta_value><![CDATA[Alas hak lama, yaitu dokumen yang menjadi bukti asal-usul penguasaan tanah seperti grant sultan, SK Camat, atau surat keterangan tanah, masih dapat digunakan sebagai bahan pendaftaran tanah pertama kali, tetapi kedudukannya telah berubah. PP No. 18 Tahun 2021 memberikan batas waktu lima tahun, yang berakhir pada awal 2026, untuk mendaftarkan alat bukti tertulis tanah bekas milik adat milik perorangan. Setelah batas waktu tersebut, dokumen semacam itu pada umumnya hanya berfungsi sebagai petunjuk, sehingga penguasaan fisik, riwayat perolehan, dan keterangan saksi menjadi lebih menentukan. Apakah dokumen Anda termasuk dalam kategori tersebut perlu diperiksa satu per satu. Oleh karena itu, bawalah dokumen aslinya; kami akan memeriksa riwayatnya, mengecek apakah lokasi tanah telah bersertifikat atas nama pihak lain, lalu menyampaikan langkah yang dapat ditempuh.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[faq_5_jawab]]></wp:meta_key><wp:meta_value><![CDATA[Alas hak lama, yaitu dokumen yang menjadi bukti asal-usul penguasaan tanah seperti grant sultan, SK Camat, atau surat keterangan tanah, masih dapat digunakan sebagai bahan pendaftaran tanah pertama kali, tetapi kedudukannya telah berubah. PP No. 18 Tahun 2021 memberikan batas waktu lima tahun, yang berakhir pada awal 2026, untuk mendaftarkan alat bukti tertulis tanah bekas milik adat milik perorangan. Setelah batas waktu tersebut, alat bukti tertulis tanah bekas milik adat pada umumnya hanya berfungsi sebagai petunjuk, sehingga penguasaan fisik, riwayat perolehan, dan keterangan saksi menjadi lebih menentukan. Pendaftaran tetap dapat ditempuh berdasarkan penguasaan fisik secara terus-menerus dengan itikad baik, yang diperkuat keterangan saksi dan tidak dibantah pihak lain. Apakah dokumen Anda termasuk dalam kategori tersebut perlu diperiksa satu per satu. Oleh karena itu, bawalah dokumen aslinya; kami akan memeriksa riwayatnya, mengecek apakah lokasi tanah telah bersertifikat atas nama pihak lain, lalu menyampaikan langkah yang dapat ditempuh.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_faq_5_jawab]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_jawab]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[faq_6_tanya]]></wp:meta_key><wp:meta_value><![CDATA[Tanah saya ternyata bersertifikat ganda. Upaya apa yang dapat ditempuh?]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_faq_6_tanya]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_tanya]]></wp:meta_value></wp:postmeta>
@@ -1607,7 +1660,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Uji tuntas hukum tidak cukup dilakukan dengan mencocokkan daftar dokumen. Kami menelaah anggaran dasar, risalah RUPS, perizinan, kontrak yang sedang berjalan, dan status aset secara menyeluruh, karena persoalan umumnya timbul dari dokumen yang tidak saling bersesuaian. Bagi perusahaan yang memerlukan pendampingan secara terus-menerus, pendampingan hukum berkala memungkinkan direksi berkonsultasi sebelum keputusan diambil.</p>
+<p>Uji tuntas hukum tidak cukup dengan mencentang daftar dokumen. Kami menelaah anggaran dasar, risalah RUPS, perizinan, kontrak yang sedang berjalan, dan status aset secara menyeluruh, karena persoalan umumnya timbul dari dokumen yang tidak saling bersesuaian. Bagi perusahaan yang memerlukan pendampingan secara terus-menerus, pendampingan hukum berkala memungkinkan direksi berkonsultasi sebelum keputusan diambil.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -1668,7 +1721,7 @@
 
 <!-- wp:details -->
 <details class="wp-block-details"><summary>Apa hasil yang diterima perusahaan dari uji tuntas hukum?</summary><!-- wp:paragraph -->
-<p>Perusahaan menerima laporan uji tuntas hukum secara tertulis yang memuat temuan, tingkat risiko setiap temuan, dan rekomendasi perbaikan yang disusun berdasarkan urutan kepentingannya.</p>
+<p>Perusahaan menerima laporan uji tuntas hukum yang memuat temuan, tingkat risiko setiap temuan, dan rekomendasi perbaikan yang disusun berdasarkan urutan kepentingannya.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
@@ -1677,7 +1730,7 @@
 <p>Melalui pendampingan hukum berkala, perusahaan dapat berkonsultasi sebelum mengambil keputusan, dengan biaya tetap yang dapat dianggarkan, tanpa harus menunggu timbulnya masalah.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->]]></content:encoded>
-<excerpt:encoded><![CDATA[Uji tuntas hukum dan penelaahan kepatuhan atas anggaran dasar, risalah RUPS, perizinan, dan perjanjian perusahaan secara menyeluruh, serta pendampingan penggabungan, pengambilalihan, dan restrukturisasi perusahaan.]]></excerpt:encoded>
+<excerpt:encoded><![CDATA[Kami periksa anggaran dasar, risalah RUPS, perizinan, dan perjanjian perusahaan Anda secara menyeluruh, serta mendampingi penggabungan, pengambilalihan, dan restrukturisasi.]]></excerpt:encoded>
 <wp:post_id>205</wp:post_id>
 <wp:post_date><![CDATA[2026-09-01 12:25:00]]></wp:post_date>
 <wp:post_date_gmt><![CDATA[2026-09-01 05:25:00]]></wp:post_date_gmt>
@@ -1694,13 +1747,13 @@
 <wp:is_sticky>0</wp:is_sticky>
 <wp:postmeta><wp:meta_key><![CDATA[judul_en]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_en]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_en]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[building-2]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[building]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_ikon]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_ikon]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Uji tuntas hukum dan penelaahan kepatuhan atas anggaran dasar, risalah RUPS, perizinan, dan perjanjian perusahaan secara menyeluruh, serta pendampingan penggabungan, pengambilalihan, dan restrukturisasi perusahaan.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Kami periksa anggaran dasar, risalah RUPS, perizinan, dan perjanjian perusahaan Anda secara menyeluruh, serta mendampingi penggabungan, pengambilalihan, dan restrukturisasi.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dek]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dek]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[Layanan korporasi Autentik Analitika di Medan meliputi audit hukum dan uji tuntas hukum (due diligence), kepatuhan perusahaan, penataan dokumen hukum perusahaan, pendampingan penggabungan (merger), pengambilalihan (akuisisi), dan restrukturisasi, serta pendampingan hukum berkala (retainer). Kami menilai kondisi hukum perusahaan Anda secara objektif, mengidentifikasi temuan yang mengandung risiko, lalu menyusun urutan perbaikan berdasarkan tingkat kepentingannya.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_jawaban]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Uji tuntas hukum tidak cukup dilakukan dengan mencocokkan daftar dokumen. Kami menelaah anggaran dasar, risalah RUPS, perizinan, kontrak yang sedang berjalan, dan status aset secara menyeluruh, karena persoalan umumnya timbul dari dokumen yang tidak saling bersesuaian. Bagi perusahaan yang memerlukan pendampingan secara terus-menerus, pendampingan hukum berkala memungkinkan direksi berkonsultasi sebelum keputusan diambil.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Uji tuntas hukum tidak cukup dengan mencentang daftar dokumen. Kami menelaah anggaran dasar, risalah RUPS, perizinan, kontrak yang sedang berjalan, dan status aset secara menyeluruh, karena persoalan umumnya timbul dari dokumen yang tidak saling bersesuaian. Bagi perusahaan yang memerlukan pendampingan secara terus-menerus, pendampingan hukum berkala memungkinkan direksi berkonsultasi sebelum keputusan diambil.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_paragraf]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_paragraf]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[Lingkup pekerjaan]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_lingkup]]></wp:meta_value></wp:postmeta>
@@ -1766,7 +1819,7 @@
 <wp:postmeta><wp:meta_key><![CDATA[_faq_0_jawab]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_jawab]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[faq_1_tanya]]></wp:meta_key><wp:meta_value><![CDATA[Apa hasil yang diterima perusahaan dari uji tuntas hukum?]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_faq_1_tanya]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_tanya]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[faq_1_jawab]]></wp:meta_key><wp:meta_value><![CDATA[Perusahaan menerima laporan uji tuntas hukum secara tertulis yang memuat temuan, tingkat risiko setiap temuan, dan rekomendasi perbaikan yang disusun berdasarkan urutan kepentingannya.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[faq_1_jawab]]></wp:meta_key><wp:meta_value><![CDATA[Perusahaan menerima laporan uji tuntas hukum yang memuat temuan, tingkat risiko setiap temuan, dan rekomendasi perbaikan yang disusun berdasarkan urutan kepentingannya.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_faq_1_jawab]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_jawab]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[faq_2_tanya]]></wp:meta_key><wp:meta_value><![CDATA[Apa kelebihan pendampingan hukum berkala (retainer) dibandingkan penunjukan per perkara?]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_faq_2_tanya]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_tanya]]></wp:meta_value></wp:postmeta>
@@ -1783,11 +1836,11 @@
 <guid isPermaLink="false">http://autentik.local/?p=206</guid>
 <description></description>
 <content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><strong>Autentik Analitika mendampingi investor dan pengembang di Medan dan Sumatera Utara dalam hal penanaman modal, pemeriksaan legalitas aset dan properti, uji tuntas (due diligence) pertanahan, pengambilalihan aset dan lahan, serta konsultasi hukum proyek properti. Kami terlebih dahulu memeriksa status kepemilikan, perizinan, dan kesesuaian tata ruang, lalu melaporkan temuan kami secara tertulis sebelum dana dibayarkan. Pemeriksaan kami terbatas pada aspek hukum dan tidak mencakup rekomendasi keuangan atau investasi.</strong></p>
+<p><strong>Autentik Analitika mendampingi investor dan pengembang di Medan dan Sumatera Utara dalam hal penanaman modal, pemeriksaan legalitas aset dan properti, uji tuntas (due diligence) pertanahan, pengambilalihan aset dan lahan, serta konsultasi hukum proyek properti. Status kepemilikan, perizinan, dan kesesuaian tata ruang kami periksa lebih dulu, dan temuannya kami laporkan sebelum dana dibayarkan. Pemeriksaan kami terbatas pada aspek hukum dan tidak mencakup rekomendasi keuangan atau investasi.</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Lahan yang tampak menguntungkan belum tentu bebas dari persoalan hukum. Rencana investasi dapat terhambat oleh peruntukan tata ruang, tumpang tindih batas, atau riwayat kepemilikan yang belum tuntas. Di sekitar Medan, termasuk Deli Serdang, status lahan eks HGU perkebunan juga perlu dipastikan terlebih dahulu. Kami melaporkan setiap temuan apa adanya, termasuk temuan yang dapat menjadi alasan bagi Anda untuk membatalkan rencana. Apabila transaksi dilanjutkan, kami bersama Anda menyusun struktur perjanjian dan tahapan pembayarannya.</p>
+<p>Lahan yang kelihatan menguntungkan belum tentu bersih dari persoalan hukum. Rencana investasi dapat terhambat oleh peruntukan tata ruang, tumpang tindih batas, atau riwayat kepemilikan yang belum tuntas. Di sekitar Medan, termasuk Deli Serdang, status lahan eks HGU perkebunan juga perlu dipastikan sejak awal. Kami melaporkan setiap temuan apa adanya, termasuk temuan yang dapat menjadi alasan bagi Anda untuk membatalkan rencana. Bila transaksi berlanjut, struktur perjanjian dan tahapan pembayarannya kami susun bersama Anda.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -1857,7 +1910,7 @@
 <p>Sebaiknya sebelum tanda jadi atau uang muka dibayarkan. Pada tahap tersebut, Anda masih leluasa untuk menunda atau membatalkan transaksi tanpa menanggung kerugian yang besar.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->]]></content:encoded>
-<excerpt:encoded><![CDATA[Pemeriksaan aspek hukum atas lahan, aset, dan proyek properti bagi investor dan pengembang, meliputi status kepemilikan, perizinan, dan kesesuaian tata ruang, disertai laporan tertulis sebelum dana dibayarkan.]]></excerpt:encoded>
+<excerpt:encoded><![CDATA[Sebelum dana Anda keluar, kami periksa status kepemilikan, perizinan, dan kesesuaian tata ruang lahan atau proyek properti, lalu menyerahkan laporan hasilnya kepada Anda.]]></excerpt:encoded>
 <wp:post_id>206</wp:post_id>
 <wp:post_date><![CDATA[2026-09-01 12:26:00]]></wp:post_date>
 <wp:post_date_gmt><![CDATA[2026-09-01 05:26:00]]></wp:post_date_gmt>
@@ -1874,13 +1927,13 @@
 <wp:is_sticky>0</wp:is_sticky>
 <wp:postmeta><wp:meta_key><![CDATA[judul_en]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_en]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_en]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[trending-up]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[ikon]]></wp:meta_key><wp:meta_value><![CDATA[chart]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_ikon]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_ikon]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Pemeriksaan aspek hukum atas lahan, aset, dan proyek properti bagi investor dan pengembang, meliputi status kepemilikan, perizinan, dan kesesuaian tata ruang, disertai laporan tertulis sebelum dana dibayarkan.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[dek]]></wp:meta_key><wp:meta_value><![CDATA[Sebelum dana Anda keluar, kami periksa status kepemilikan, perizinan, dan kesesuaian tata ruang lahan atau proyek properti, lalu menyerahkan laporan hasilnya kepada Anda.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_dek]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_dek]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[Autentik Analitika mendampingi investor dan pengembang di Medan dan Sumatera Utara dalam hal penanaman modal, pemeriksaan legalitas aset dan properti, uji tuntas (due diligence) pertanahan, pengambilalihan aset dan lahan, serta konsultasi hukum proyek properti. Kami terlebih dahulu memeriksa status kepemilikan, perizinan, dan kesesuaian tata ruang, lalu melaporkan temuan kami secara tertulis sebelum dana dibayarkan. Pemeriksaan kami terbatas pada aspek hukum dan tidak mencakup rekomendasi keuangan atau investasi.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[Autentik Analitika mendampingi investor dan pengembang di Medan dan Sumatera Utara dalam hal penanaman modal, pemeriksaan legalitas aset dan properti, uji tuntas (due diligence) pertanahan, pengambilalihan aset dan lahan, serta konsultasi hukum proyek properti. Status kepemilikan, perizinan, dan kesesuaian tata ruang kami periksa lebih dulu, dan temuannya kami laporkan sebelum dana dibayarkan. Pemeriksaan kami terbatas pada aspek hukum dan tidak mencakup rekomendasi keuangan atau investasi.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_jawaban_singkat]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_jawaban]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Lahan yang tampak menguntungkan belum tentu bebas dari persoalan hukum. Rencana investasi dapat terhambat oleh peruntukan tata ruang, tumpang tindih batas, atau riwayat kepemilikan yang belum tuntas. Di sekitar Medan, termasuk Deli Serdang, status lahan eks HGU perkebunan juga perlu dipastikan terlebih dahulu. Kami melaporkan setiap temuan apa adanya, termasuk temuan yang dapat menjadi alasan bagi Anda untuk membatalkan rencana. Apabila transaksi dilanjutkan, kami bersama Anda menyusun struktur perjanjian dan tahapan pembayarannya.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[paragraf]]></wp:meta_key><wp:meta_value><![CDATA[Lahan yang kelihatan menguntungkan belum tentu bersih dari persoalan hukum. Rencana investasi dapat terhambat oleh peruntukan tata ruang, tumpang tindih batas, atau riwayat kepemilikan yang belum tuntas. Di sekitar Medan, termasuk Deli Serdang, status lahan eks HGU perkebunan juga perlu dipastikan sejak awal. Kami melaporkan setiap temuan apa adanya, termasuk temuan yang dapat menjadi alasan bagi Anda untuk membatalkan rencana. Bila transaksi berlanjut, struktur perjanjian dan tahapan pembayarannya kami susun bersama Anda.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_paragraf]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_paragraf]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[Lingkup pekerjaan]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_judul_lingkup]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_judul_lingkup]]></wp:meta_value></wp:postmeta>
@@ -1949,7 +2002,7 @@
 <wp:postmeta><wp:meta_key><![CDATA[faq_2_jawab]]></wp:meta_key><wp:meta_value><![CDATA[Sebaiknya sebelum tanda jadi atau uang muka dibayarkan. Pada tahap tersebut, Anda masih leluasa untuk menunda atau membatalkan transaksi tanpa menanggung kerugian yang besar.]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[_faq_2_jawab]]></wp:meta_key><wp:meta_value><![CDATA[field_aa_faq_jawab]]></wp:meta_value></wp:postmeta>
 <wp:postmeta><wp:meta_key><![CDATA[rank_math_title]]></wp:meta_key><wp:meta_value><![CDATA[Pemeriksaan Hukum Properti & Investasi | Autentik Analitika]]></wp:meta_value></wp:postmeta>
-<wp:postmeta><wp:meta_key><![CDATA[rank_math_description]]></wp:meta_key><wp:meta_value><![CDATA[Pemeriksaan aspek hukum aset, lahan, dan proyek properti di Medan dan Sumatera Utara. Hasilnya dilaporkan secara tertulis sebelum dana dibayarkan.]]></wp:meta_value></wp:postmeta>
+<wp:postmeta><wp:meta_key><![CDATA[rank_math_description]]></wp:meta_key><wp:meta_value><![CDATA[Pemeriksaan aspek hukum aset, lahan, dan proyek properti di Medan dan Sumatera Utara. Hasilnya dilaporkan sebelum dana dibayarkan.]]></wp:meta_value></wp:postmeta>
 </item>
 <item>
 <title><![CDATA[Ketlyn Purnama Siahaan]]></title>
@@ -2324,11 +2377,11 @@
 <!-- /wp:list -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">5. Pastikan PBB lunas dan tanyakan riwayat pajaknya</h2>
+<h2 class="wp-block-heading">5. Pastikan PBB-P2 lunas dan tanyakan riwayat pajaknya</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Mintalah SPPT PBB beserta bukti pelunasannya dari penjual. Tunggakan PBB dapat menghambat proses peralihan hak. Untuk tanah di Kota Medan, SPPT dan status pelunasan PBB dapat diperiksa melalui Bapenda Kota Medan, sedangkan untuk tanah di Kabupaten Deli Serdang melalui Bapenda Deli Serdang. Dalam jual beli tanah, penjual membayar PPh final atas pengalihan hak, sedangkan pembeli membayar BPHTB. Besaran kedua pajak tersebut sebaiknya dihitung dan disepakati sebelum harga akhir ditetapkan.</p>
+<p>Mintalah SPPT PBB-P2 (Pajak Bumi dan Bangunan Perdesaan dan Perkotaan) beserta bukti pelunasannya dari penjual. Tunggakan PBB-P2 dapat menghambat proses peralihan hak. Untuk tanah di Kota Medan, SPPT dan status pelunasan PBB-P2 dapat diperiksa melalui Bapenda Kota Medan, sedangkan untuk tanah di Kabupaten Deli Serdang melalui Bapenda Deli Serdang. Dalam jual beli tanah, penjual membayar PPh final atas pengalihan hak, sedangkan pembeli membayar BPHTB. Besaran kedua pajak tersebut sebaiknya dihitung dan disepakati sebelum harga akhir ditetapkan.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -2566,7 +2619,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Terbitnya NIB bukanlah akhir dari proses perizinan. Pelaku usaha, kecuali usaha mikro, wajib menyampaikan Laporan Kegiatan Penanaman Modal (LKPM) secara berkala, yaitu setiap semester bagi usaha kecil dan setiap triwulan bagi usaha menengah dan besar, sesuai dengan peraturan yang berlaku. Data usaha di OSS juga perlu diperbarui apabila terjadi perubahan, misalnya perpindahan lokasi atau penambahan kegiatan usaha.</p>
+<p>Terbitnya NIB bukanlah akhir dari proses perizinan. Pelaku usaha, kecuali usaha mikro, wajib menyampaikan Laporan Kegiatan Penanaman Modal (LKPM) secara berkala sesuai skala usaha dan ketentuan Kementerian Investasi/BKPM yang berlaku. Data usaha di OSS juga perlu diperbarui apabila terjadi perubahan, misalnya perpindahan lokasi atau penambahan kegiatan usaha.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
